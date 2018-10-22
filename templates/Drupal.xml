@@ -1,0 +1,9 @@
+<templateSet group="Drupal">
+  <template name="fieldmapping" value="$this-&gt;addFieldMapping('$DESTINATION$', '$SOURCE$');" description="Adds a new field mapping" toReformat="true" toShortenFQNames="true">
+    <variable name="DESTINATION" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="SOURCE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>

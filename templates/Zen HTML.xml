@@ -1,0 +1,7 @@
+<templateSet group="Zen HTML">
+  <template name="style" value="&lt;style&gt;$END$&lt;/style&gt;" description="&lt;style&gt;...&lt;/style&gt;" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+</templateSet>

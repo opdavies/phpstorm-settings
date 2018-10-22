@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="PHPCS" description="PHP Code Sniffer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="true" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/phpcs" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="PHP CS Fixer" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$USER_HOME$/.composer/vendor/bin/php-cs-fixer" />
+      <option name="PARAMETERS" value="--fixers=&quot;eof_ending,line_after_namespace,linefeed,no_trailing_whitespace_in_comment,php_closing_tag,single_line_after_imports,extra_empty_linesordered_use,unused_use&quot; fix $FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>

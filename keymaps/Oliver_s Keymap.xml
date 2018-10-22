@@ -1,0 +1,91 @@
+<keymap version="1" name="Oliver's Keymap" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="ctrl back_quote" />
+  </action>
+  <action id="CloseActiveTab">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.TableResult.NavigateForeignAction">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="CopyElement" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="EditorDuplicate">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="meta button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="meta alt o" />
+    <keyboard-shortcut first-keystroke="shift meta r" />
+  </action>
+  <action id="GotoTest" />
+  <action id="Images.ShowThumbnails" />
+  <action id="ParameterInfo" />
+  <action id="QuickChangeScheme" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
+  <action id="Rerun" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+    <keyboard-shortcut first-keystroke="shift meta t" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl r" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="RunDashboard.ShowConfigurations" />
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="ShelvedChanges.Diff" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Tool_External Tools_PHP CS Fixer">
+    <keyboard-shortcut first-keystroke="meta b" />
+  </action>
+  <action id="Tool_External Tools_PHPCS">
+    <keyboard-shortcut first-keystroke="shift alt p" />
+  </action>
+  <action id="UML.ApplyCurrentLayout" />
+  <action id="UsageView.Rerun" />
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="Vcs.UpdateProject" />
+  <action id="hg4idea.QPushAction" />
+  <action id="linessorter.sort">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="openAssertEqualsDiff" />
+</keymap>

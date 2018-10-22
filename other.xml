@@ -1,0 +1,229 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Blade files</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="7.7.3" last-modified="1490098774000" />
+    </local-interpreter>
+    <local-interpreter path="/usr/local/Cellar/node/7.0.0/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/6.6.0/bin/node" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_CLASS" value="true" />
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_FUNCTION" value="true" />
+    <option name="RENAME_SEARCH_NON_CODE_FOR_FUNCTION" value="true" />
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="private" />
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <JIRA shared="false" url="https://jira.ctidigital.com">
+      <option name="apiType" value="REST_2_0" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <password>dfc7dfcbdfc4dfc3dfc9df87dfc1dfc3dfdedfdedfcfdfc4</password>
+      <option name="inCloud" value="false" />
+      <option name="jiraVersion" value="6.4.7" />
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="searchQuery" value="assignee = currentUser() and resolution = Unresolved order by updated " />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="true" />
+      <option name="useProxy" value="false" />
+      <username>o.davies</username>
+    </JIRA>
+    <Generic shared="false" url="https://www.drupal.org">
+      <commitMessageFormat>Issue {id}: {summary}</commitMessageFormat>
+      <option name="downloadTasksInSeparateRequests" value="false" />
+      <password />
+      <option name="loginAnonymously" value="true" />
+      <option name="loginMethodType" value="GET" />
+      <option name="loginUrl" value="" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="responseHandlers">
+        <XPathResponseHandler>
+          <selectors>
+            <selector name="tasks" path="" />
+            <selector name="id" path="" />
+            <selector name="summary" path="" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-closed" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </XPathResponseHandler>
+        <JsonResponseHandler>
+          <selectors>
+            <selector name="tasks" path="" />
+            <selector name="id" path="" />
+            <selector name="summary" path="" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-closed" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </JsonResponseHandler>
+        <RegExResponseHandler>
+          <option name="taskRegex" value="&lt;td class=&quot;views-field views-field-title&quot; &gt;\s*&lt;a href=&quot;/node/({id}.+?)&quot;&gt;({summary}.+?)&lt;/a&gt;" />
+        </RegExResponseHandler>
+      </option>
+      <option name="responseType" value="TEXT" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="singleTaskMethodType" value="GET" />
+      <option name="singleTaskUrl" value="" />
+      <option name="subtypeName" />
+      <option name="tasksListMethodType" value="GET" />
+      <option name="tasksListUrl" value="{serverUrl}/project/issues/drupalorg?categories=All" />
+      <option name="templateVariables">
+        <list />
+      </option>
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Generic>
+    <Generic shared="false" url="http://drupal.org">
+      <commitMessageFormat>Issue {id}: {summary}</commitMessageFormat>
+      <option name="downloadTasksInSeparateRequests" value="false" />
+      <password />
+      <option name="loginAnonymously" value="true" />
+      <option name="loginMethodType" value="GET" />
+      <option name="loginUrl" value="" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="responseHandlers">
+        <XPathResponseHandler>
+          <selectors>
+            <selector name="tasks" path="" />
+            <selector name="id" path="" />
+            <selector name="summary" path="" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-closed" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </XPathResponseHandler>
+        <JsonResponseHandler>
+          <selectors>
+            <selector name="tasks" path="" />
+            <selector name="id" path="" />
+            <selector name="summary" path="" />
+            <selector name="description" path="" />
+            <selector name="updated" path="" />
+            <selector name="created" path="" />
+            <selector name="closed" path="" />
+            <selector name="issueUrl" path="" />
+            <selector name="singleTask-id" path="" />
+            <selector name="singleTask-summary" path="" />
+            <selector name="singleTask-description" path="" />
+            <selector name="singleTask-updated" path="" />
+            <selector name="singleTask-created" path="" />
+            <selector name="singleTask-closed" path="" />
+            <selector name="singleTask-issueUrl" path="" />
+          </selectors>
+        </JsonResponseHandler>
+        <RegExResponseHandler>
+          <option name="taskRegex" value="&lt;td class=&quot;views-field views-field-title&quot; &gt;\s*&lt;a href=&quot;/node/({id}.+?)&quot;&gt;({summary}.+?)&lt;/a&gt;" />
+        </RegExResponseHandler>
+      </option>
+      <option name="responseType" value="TEXT" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="singleTaskMethodType" value="GET" />
+      <option name="singleTaskUrl" value="" />
+      <option name="subtypeName" />
+      <option name="tasksListMethodType" value="GET" />
+      <option name="tasksListUrl" value="{serverUrl}/project/issues/drupalorg?categories=All" />
+      <option name="templateVariables">
+        <list />
+      </option>
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <username />
+    </Generic>
+    <GitHub shared="false" url="http://github.com">
+      <option name="assignedIssuesOnly" value="false" />
+      <commitMessageFormat>Issue #{number}: {summary}</commitMessageFormat>
+      <password />
+      <token>df9cdfc9dfc9df93df98dfcbdf99df9edf9adfc8dfc8dfc8df9edf92df9edf92df99df99dfcbdf92df9bdfccdf93df9edfc8df9cdfccdfccdf9bdf9cdfcfdfc9dfcedfcfdf98dfcfdf9cdfcfdfc8df9e</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="thisisyoke" />
+      <option name="repoName" value="yourewelcome" />
+      <option name="shouldFormatCommitMessage" value="true" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Find Usages" />
+      </set>
+    </option>
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerExImpl">
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>
