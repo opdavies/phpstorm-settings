@@ -866,8 +866,10 @@
         <mark key="." line="26" column="4" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_quote_angular/js/tiQuote.js" timestamp="1540584821760">
-        <mark key="[" line="841" column="65" />
+      <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_quote_angular/js/tiQuote.js" timestamp="1540589567873">
+        <mark key="[" line="837" column="26" />
+        <mark key="]" line="837" column="26" />
+        <mark key="." line="837" column="26" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_support_ticket/tests/modules/odl_support_ticket_test/config/install/node.type.support_ticket.yml" timestamp="1522318834702">
         <mark key="[" line="2" column="12" />
@@ -1394,6 +1396,11 @@
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/all/modules/custom/ti_deploy/ti_deploy.install" timestamp="1540581386413">
         <mark key="[" line="46" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/outdoorlads/repo/scripts/play.php" timestamp="1540216676064">
+        <mark key="[" line="2" column="25" />
+        <mark key="]" line="2" column="25" />
+        <mark key="." line="2" column="25" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/scripts/token-replace.php" timestamp="1538147767640">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="7" column="12" />
@@ -1724,10 +1731,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>Basic</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>Basic</text>
       </register>
       <register name="/" type="4">
         <text>core</text>
