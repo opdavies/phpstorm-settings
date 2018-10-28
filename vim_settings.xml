@@ -864,8 +864,8 @@
         <mark key="." line="26" column="4" />
         <mark key="^" line="26" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_quote_angular/js/tiQuote.js" timestamp="1540589567873">
-        <mark key="[" line="837" column="26" />
+      <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_quote_angular/js/tiQuote.js" timestamp="1540766072059">
+        <mark key="[" line="944" column="43" />
         <mark key="]" line="837" column="26" />
         <mark key="." line="837" column="26" />
       </file>
@@ -1391,12 +1391,12 @@
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/modules/custom/donut_redirect404/donut_redirect404.services.yml" timestamp="1534754500457">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/all/modules/custom/ti_deploy/ti_deploy.install" timestamp="1540765059978">
+      <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/all/modules/custom/ti_deploy/ti_deploy.install" timestamp="1540766318784">
         <mark key="'" line="66" column="8" />
-        <mark key="[" line="57" column="34" />
-        <mark key="]" line="57" column="33" />
-        <mark key="^" line="57" column="33" />
-        <mark key="." line="57" column="33" />
+        <mark key="[" line="88" column="32" />
+        <mark key="]" line="88" column="32" />
+        <mark key="^" line="83" column="44" />
+        <mark key="." line="88" column="32" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/scripts/play.php" timestamp="1540216676064">
         <mark key="[" line="2" column="25" />
@@ -1733,10 +1733,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Basic</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>Basic</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>1</text>
