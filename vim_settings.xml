@@ -328,6 +328,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/modules/odl_message_hide/tests/src/Kernel/HiddenMessageTest.php" timestamp="1528387391186">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_quote_angular/html/steps/2.html" timestamp="1541725001793">
+        <mark key="[" line="17" column="34" />
+      </file>
       <file name="$USER_HOME$/Code/bracknell/docroot/sites/all/themes/custom/bracknell_theme_base/templates/maintenance-page.tpl.php" timestamp="1539163236147">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="36" column="2" />
@@ -752,8 +755,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_clone_event/odl_clone_event.services.yml" timestamp="1529673777784">
         <mark key="[" line="3" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_quote_angular/html/elements/details/fields/gadgets/index.html" timestamp="1541724097760">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_quote_angular/html/elements/details/fields/gadgets/index.html" timestamp="1541725529051">
+        <mark key="[" line="63" column="131" />
+        <mark key="]" line="63" column="52" />
+        <mark key="^" line="63" column="52" />
+        <mark key="." line="63" column="52" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/scripts/completed-on-test.php" timestamp="1535705874736">
         <mark key="[" line="7" column="33" />
@@ -1801,10 +1807,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DrupalWebTestCase</text>
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>DrupalWebTestCase</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
