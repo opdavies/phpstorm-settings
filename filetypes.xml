@@ -1,20 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="info" type="Ini" />
-      <mapping pattern="BroadbeanController" type="PHP" />
       <mapping ext="profile" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="install" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping pattern="init" type="PLAIN_TEXT" />
-      <mapping pattern="Vagrantfile" type="PLAIN_TEXT" />
-      <mapping pattern="config-import" type="PLAIN_TEXT" />
-      <mapping pattern="stage" type="PLAIN_TEXT" />
-      <mapping pattern="build-theme" type="PLAIN_TEXT" />
-      <mapping pattern="develop" type="Bash" />
-      <mapping pattern="start-container" type="Bash" />
     </extensionMap>
   </component>
 </application>
