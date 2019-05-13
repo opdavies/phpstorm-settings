@@ -1475,6 +1475,12 @@
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/modules/custom/donut_redirect404/donut_redirect404.services.yml" timestamp="1534754500457">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_core/tests/web/device_repository.test" timestamp="1557785171975">
+        <mark key="[" line="67" column="4" />
+        <mark key="]" line="75" column="66" />
+        <mark key="^" line="75" column="66" />
+        <mark key="." line="75" column="66" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/scripts/token-replace.php" timestamp="1538147767640">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="7" column="12" />
@@ -1613,8 +1619,8 @@
         <mark key="^" line="26" column="8" />
         <mark key="." line="26" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_core/src/Service/DeviceRepository.php" timestamp="1557782658792">
-        <mark key="[" line="15" column="33" />
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_core/src/Service/DeviceRepository.php" timestamp="1557784597223">
+        <mark key="[" line="83" column="115" />
         <mark key="]" line="15" column="32" />
         <mark key="^" line="15" column="32" />
         <mark key="." line="15" column="32" />
