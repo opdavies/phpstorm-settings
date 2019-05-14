@@ -1033,6 +1033,12 @@
         <mark key="^" line="73" column="56" />
         <mark key="." line="73" column="56" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_device_bulk_update/src/Form/BulkUpdateForm.php" timestamp="1557787265702">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="^" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_order_item.field_waitlisted.yml" timestamp="1530007139883">
         <mark key="[" line="5" column="21" />
       </file>
@@ -1830,10 +1836,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contains</text>
+        <text>same</text>
       </register>
       <register name="-" type="4">
-        <text>contains</text>
+        <text>same</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
