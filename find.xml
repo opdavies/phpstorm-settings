@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,9 +24,9 @@
     <mask>*.scss</mask>
     <mask>*.routing*</mask>
     <mask>*Trait.php</mask>
-    <mask>*.php</mask>
     <mask>*Test.php</mask>
     <mask>*.inc</mask>
     <mask>*.test</mask>
+    <mask>*.php</mask>
   </component>
 </application>
