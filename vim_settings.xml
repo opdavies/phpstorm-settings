@@ -931,9 +931,9 @@
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/config/sync/migrate_plus.migration.upgrade_d7_node_article.yml" timestamp="1535039983528">
         <mark key="[" line="80" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_device_bulk_update/src/Controller/BulkUpdateController.php" timestamp="1557838506316">
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_device_bulk_update/src/Controller/BulkUpdateController.php" timestamp="1557840696305">
         <mark key="'" line="97" column="5" />
-        <mark key="[" line="159" column="0" />
+        <mark key="[" line="162" column="87" />
         <mark key="]" line="159" column="0" />
         <mark key="^" line="158" column="26" />
         <mark key="." line="159" column="0" />
