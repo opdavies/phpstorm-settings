@@ -931,11 +931,11 @@
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/config/sync/migrate_plus.migration.upgrade_d7_node_article.yml" timestamp="1535039983528">
         <mark key="[" line="80" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_device_bulk_update/src/Controller/BulkUpdateController.php" timestamp="1557830170216">
-        <mark key="[" line="43" column="38" />
-        <mark key="]" line="42" column="43" />
-        <mark key="^" line="42" column="43" />
-        <mark key="." line="42" column="43" />
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_device_bulk_update/src/Controller/BulkUpdateController.php" timestamp="1557833027468">
+        <mark key="[" line="72" column="100" />
+        <mark key="]" line="72" column="35" />
+        <mark key="^" line="72" column="35" />
+        <mark key="." line="72" column="35" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/private_message/src/Service/PrivateMessageService.php" timestamp="1532949115355">
         <mark key="[" line="0" column="0" />
