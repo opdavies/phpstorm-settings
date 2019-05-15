@@ -201,6 +201,7 @@
       <file name="$USER_HOME$/Code/atom/donuts/sectors-donut/.gitignore" timestamp="1534420165590">
         <mark key="[" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/Code/os/phpsw-ng/tailwind.js" timestamp="1557879571536" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/src/Kernel/OdlCommerceEventKernelTestBase.php" timestamp="1523880943864">
         <mark key="[" line="0" column="0" />
       </file>
@@ -332,6 +333,9 @@
       </file>
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_quote_angular/html/steps/2.html" timestamp="1541725001793">
         <mark key="[" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/Code/os/phpsw-ng/tailwind.js__" timestamp="1557879987864">
+        <mark key="[" line="64" column="28" />
       </file>
       <file name="$USER_HOME$/Code/bracknell/docroot/sites/all/themes/custom/bracknell_theme_base/templates/maintenance-page.tpl.php" timestamp="1539163236147">
         <mark key="[" line="7" column="11" />
@@ -1167,6 +1171,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/menus/menu-local-tasks.html.twig" timestamp="1537967121114">
         <mark key="[" line="19" column="84" />
       </file>
+      <file name="$USER_HOME$/Code/os/phpsw-ng/webpack.mix.js" timestamp="1557880283779">
+        <mark key="[" line="10" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/config/install/odl_messages.yml" timestamp="1532688236598">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1345,6 +1352,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/TypedData/Plugin/DataType/ItemList.php" timestamp="1531149770113">
         <mark key="[" line="140" column="10" />
+      </file>
+      <file name="$USER_HOME$/Code/os/phpsw-ng/tailwind.config.js" timestamp="1557880190986">
+        <mark key="[" line="8" column="6" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/sites/default/settings.local.php" timestamp="1534946128863">
         <mark key="[" line="68" column="21" />
