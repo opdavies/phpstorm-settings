@@ -1,6 +1,6 @@
 <application>
   <component name="DefaultFont">
-    <option name="FONT_SIZE" value="13" />
+    <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Operator Mono" />
     <option name="LINE_SPACING" value="2.2" />
   </component>
@@ -24,6 +24,10 @@
     </option>
     <option name="SHOW_BREADCRUMBS" value="false" />
     <option name="SHOW_PARAMETER_NAME_HINTS" value="false" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
   </component>
   <component name="XmlEditorOptions">
     <option name="tagTreeHighlightingEnabled" value="false" />
