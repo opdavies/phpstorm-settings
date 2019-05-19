@@ -598,11 +598,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/drush/odl.aliases.drushrc.php" timestamp="1533824287508">
         <mark key="[" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/play.php" timestamp="1558077559362">
-        <mark key="[" line="4" column="56" />
-        <mark key="]" line="2" column="32" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="2" column="32" />
+      <file name="$USER_HOME$/Code/clients/tinhat/play.php" timestamp="1558258158891">
+        <mark key="[" line="4" column="86" />
+        <mark key="]" line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+        <mark key="." line="4" column="12" />
       </file>
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/drupaltest/tests/src/Controller/ExampleController.php" timestamp="1536752151811">
         <mark key="[" line="2" column="39" />
@@ -940,9 +940,12 @@
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/config/sync/migrate_plus.migration.upgrade_d7_node_article.yml" timestamp="1535039983528">
         <mark key="[" line="80" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_device_bulk_update/src/Controller/BulkUpdateController.php" timestamp="1558080716296">
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_device_bulk_update/src/Controller/BulkUpdateController.php" timestamp="1558227565252">
         <mark key="'" line="97" column="5" />
-        <mark key="[" line="121" column="6" />
+        <mark key="[" line="156" column="7" />
+        <mark key="]" line="156" column="7" />
+        <mark key="." line="156" column="7" />
+        <mark key="^" line="156" column="10" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/private_message/src/Service/PrivateMessageService.php" timestamp="1532949115355">
         <mark key="[" line="0" column="0" />
@@ -1107,10 +1110,11 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/drupaltest/src/Service/Calculator.php" timestamp="1536753154786">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_core/src/Service/RepositoryInterface.php" timestamp="1558077974208">
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_core/src/Service/RepositoryInterface.php" timestamp="1558227668752">
         <mark key="[" line="14" column="126" />
         <mark key="]" line="14" column="126" />
         <mark key="." line="14" column="126" />
+        <mark key="^" line="14" column="130" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/Plugin/views/access/EventLeader.php" timestamp="1538495834557">
         <mark key="[" line="21" column="11" />
@@ -1651,11 +1655,11 @@
         <mark key="^" line="26" column="8" />
         <mark key="." line="26" column="8" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_core/src/Service/DeviceRepository.php" timestamp="1558080196049">
-        <mark key="[" line="46" column="8" />
-        <mark key="]" line="36" column="126" />
-        <mark key="^" line="36" column="126" />
-        <mark key="." line="36" column="126" />
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_core/src/Service/DeviceRepository.php" timestamp="1558258240097">
+        <mark key="[" line="56" column="63" />
+        <mark key="]" line="56" column="14" />
+        <mark key="^" line="56" column="14" />
+        <mark key="." line="56" column="14" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/RewardType/HostelAndCamping.php" timestamp="1537372054427">
         <mark key="[" line="20" column="30" />
@@ -1861,10 +1865,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>EntityValueWrapper</text>
+        <text>ListWrapper</text>
       </register>
       <register name="-" type="4">
-        <text>EntityValueWrapper</text>
+        <text>ListWrapper</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
