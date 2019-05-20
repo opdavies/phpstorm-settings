@@ -563,9 +563,6 @@
         <mark key="^" line="67" column="102" />
         <mark key="." line="67" column="102" />
       </file>
-      <file name="$USER_HOME$/Code/os/oliverdavies.uk/source/talks.html.twig" timestamp="1558340396794">
-        <mark key="[" line="30" column="95" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/scripts/waitlist-report-test.php" timestamp="1526289846384">
         <mark key="[" line="0" column="0" />
       </file>
@@ -677,9 +674,12 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/drupaltest/tests/src/Controllers/ExampleController.php" timestamp="1536752046184">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/src/TwigExtension/TalksExtension.php" timestamp="1558340670337">
+      <file name="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/src/TwigExtension/TalksExtension.php" timestamp="1558344357805">
         <mark key="'" line="66" column="10" />
-        <mark key="[" line="40" column="32" />
+        <mark key="[" line="100" column="10" />
+        <mark key="]" line="96" column="62" />
+        <mark key="^" line="96" column="67" />
+        <mark key="." line="96" column="62" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_leader_applications/src/Helpers/EditFormHelper.php" timestamp="1536916829199">
         <mark key="[" line="9" column="23" />
@@ -1893,10 +1893,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>filterPast</text>
+        <text>Collection</text>
       </register>
       <register name="-" type="4">
-        <text>filterPast</text>
+        <text>Collection</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
