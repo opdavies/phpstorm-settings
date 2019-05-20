@@ -171,8 +171,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/odl_events.services.yml" timestamp="1539769711133">
         <mark key="[" line="22" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/app/config/sculpin_site.yml" timestamp="1558386486365">
-        <mark key="[" line="31" column="33" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/app/config/sculpin_site.yml" timestamp="1558396363758">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="32" column="17" />
+        <mark key="." line="32" column="17" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Code/bracknell/docroot/modules/node/node.module" timestamp="1539181730929">
         <mark key="[" line="2755" column="35" />
@@ -335,11 +338,11 @@
       <file name="$USER_HOME$/Code/oliverdavies.uk-d8/web/modules/custom/opdavies_blog/src/Traits/ArticleEventTrait.php" timestamp="1534492586798">
         <mark key="[" line="35" column="72" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/src/Sponsors/src/DependencyInjection/SculpinSponsorsExtension.php" timestamp="1558387222088">
-        <mark key="[" line="14" column="79" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/src/Sponsors/src/DependencyInjection/SculpinSponsorsExtension.php" timestamp="1558395798246">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
       </file>
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/modules/custom/topic_landing_page/src/Controller/TopicLandingPageController.php" timestamp="1534932031956">
         <mark key="[" line="239" column="27" />
@@ -386,8 +389,8 @@
       <file name="$USER_HOME$/Code/oliverdavies.uk-d8/web/modules/custom/opdavies_blog/src/Trait/BlogTrait.php" timestamp="1534422704768">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_redirects.html.twig" timestamp="1558394326724">
-        <mark key="[" line="3" column="21" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_redirects.html.twig" timestamp="1558396386142">
+        <mark key="[" line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/source/_layouts/session.html.twig" timestamp="1558392551303">
         <mark key="[" line="3" column="2" />
@@ -803,11 +806,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/src/Exception/CannotDetermineRoleChangeEmailException.php" timestamp="1531926763149">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/sponsors-block.html.twig" timestamp="1558385963568">
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="6" column="9" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/sponsors-block.html.twig" timestamp="1558395958476">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="32" />
         <mark key="^" line="6" column="9" />
-        <mark key="." line="6" column="9" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_order_item.field_waitlisted.yml" timestamp="1523608523851">
         <mark key="[" line="5" column="20" />
@@ -935,8 +938,8 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/themes/classy/templates/form/input.html.twig" timestamp="1537775021460">
         <mark key="[" line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/sponsors.html.twig" timestamp="1558387009637">
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/sponsors.html.twig" timestamp="1558396028334">
+        <mark key="[" line="10" column="52" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_leader_applications/src/Entity/Access/LeaderApplicationAccessControlHandler.php" timestamp="1537874827917">
         <mark key="[" line="12" column="24" />
@@ -1094,10 +1097,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>true</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
