@@ -186,6 +186,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/private_message_queue/tests/src/Kernel/PrivateMessageQueueTest.php" timestamp="1528803009924">
         <mark key="[" line="59" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/daniel-pickering.md" timestamp="1558393588847">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="18" />
+        <mark key="." line="3" column="14" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_event_places_remaining.yml" timestamp="1523458276348">
         <mark key="[" line="5" column="21" />
       </file>
@@ -207,7 +213,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/modules/comment/comment.permissions.yml" timestamp="1522753394983">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1540210361884">
+      <file name="/Dummy.txt" timestamp="1558391797694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.field.commerce_order_item.odl_order_item_type.field_cancelled.yml" timestamp="1523610254420">
@@ -228,8 +234,13 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/commerce_stripe/config/schema/commerce_stripe.schema.yml" timestamp="1537275960879">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/.gitignore" timestamp="1558388476165">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/.gitignore" timestamp="1558392041833">
+        <mark key="[" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/2-matt-haworth.md" timestamp="1558394035683">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/private_message/private_message.services.yml" timestamp="1532949113418">
         <mark key="[" line="42" column="2" />
@@ -275,6 +286,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_profile/odl_user_profile.module" timestamp="1536163767973">
         <mark key="[" line="122" column="49" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_sessions/automate-repetitive-tasks-ansible.md" timestamp="1558393523547">
+        <mark key="[" line="1" column="48" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_pay_as_you_go_member_price.yml" timestamp="1529505209283">
         <mark key="[" line="5" column="21" />
@@ -339,11 +356,17 @@
       <file name="/fragment.php" timestamp="1532960857937">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/app/SculpinKernel.php" timestamp="1558384859548">
-        <mark key="[" line="14" column="45" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/app/SculpinKernel.php" timestamp="1558390259193">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/speaker-session.html.twig" timestamp="1558391827854">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/drush/odl.aliases.drushrc.php" timestamp="1533824287508">
         <mark key="[" line="2" column="23" />
@@ -363,6 +386,15 @@
       <file name="$USER_HOME$/Code/oliverdavies.uk-d8/web/modules/custom/opdavies_blog/src/Trait/BlogTrait.php" timestamp="1534422704768">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_redirects.html.twig" timestamp="1558394326724">
+        <mark key="[" line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_layouts/session.html.twig" timestamp="1558392551303">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="3" column="2" />
+        <mark key="^" line="3" column="2" />
+        <mark key="." line="3" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/bracknell/docroot/sites/all/modules/custom/localgov/localgov_base_moderation/bracknell_base.test" timestamp="1539257513432">
         <mark key="[" line="5" column="19" />
       </file>
@@ -372,18 +404,17 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_admin/src/ConfigOverrider.php" timestamp="1538732603860">
         <mark key="[" line="16" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/TwigExtension/SpeakersExtension.php" timestamp="1558394053888">
+        <mark key="[" line="46" column="69" />
+        <mark key="]" line="46" column="69" />
+        <mark key="^" line="46" column="68" />
+        <mark key="." line="46" column="69" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/scripts/get-attendee-emails.php" timestamp="1524499191982">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/drupaltest/tests/src/Controllers/ExampleController.php" timestamp="1536752046184">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/src/TwigExtension/TalksExtension.php" timestamp="1558380928657">
-        <mark key="'" line="64" column="10" />
-        <mark key="[" line="108" column="51" />
-        <mark key="]" line="108" column="46" />
-        <mark key="^" line="108" column="46" />
-        <mark key="." line="108" column="46" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_profile/src/Plugin/views/access/MyProfilePage.php" timestamp="1539946979823">
         <mark key="[" line="70" column="53" />
@@ -487,13 +518,6 @@
       <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/settings.acquia.php" timestamp="1557774729419">
         <mark key="[" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" timestamp="1558386897128">
-        <mark key="'" line="37" column="6" />
-        <mark key="[" line="47" column="14" />
-        <mark key="]" line="47" column="13" />
-        <mark key="." line="47" column="13" />
-        <mark key="^" line="47" column="13" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_promotion/tests/src/Kernel/EarlyBirdStringTest.php" timestamp="1531127681492">
         <mark key="[" line="53" column="33" />
       </file>
@@ -518,6 +542,12 @@
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/config/sync/migrate_plus.migration.upgrade_d7_node_article.yml" timestamp="1535039983528">
         <mark key="[" line="80" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/1-dan-mcnamara.md" timestamp="1558394029022">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_layouts/speaker.html.twig" timestamp="1558391805942" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/private_message/src/Service/PrivateMessageService.php" timestamp="1532949115355">
         <mark key="[" line="0" column="0" />
       </file>
@@ -529,6 +559,11 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/commerce/modules/order/src/Entity/Order.php" timestamp="1523462866759">
         <mark key="[" line="513" column="40" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/3-daniel-pickering.md" timestamp="1558394009919">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_export/odl_user_export.info.yml" timestamp="1538565971678">
         <mark key="[" line="6" column="25" />
@@ -598,6 +633,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/private-message-thread/private-message-thread--inbox.html.twig" timestamp="1529414080529">
         <mark key="[" line="23" column="51" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/app/config/sculpin_kernel.yml" timestamp="1558393995362">
+        <mark key="[" line="4" column="28" />
+        <mark key="]" line="4" column="28" />
+        <mark key="." line="4" column="28" />
+        <mark key="^" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_event_leader.yml" timestamp="1524854906476">
         <mark key="[" line="6" column="21" />
@@ -674,6 +715,11 @@
       <file name="$USER_HOME$/Code/atom/donuts/startup-donut/docroot/sites/default/settings.php" timestamp="1534420457495">
         <mark key="[" line="79" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/front-speakers.html.twig" timestamp="1558394125602">
+        <mark key="[" line="9" column="128" />
+        <mark key="]" line="9" column="128" />
+        <mark key="." line="9" column="128" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_events_reports/odl_events_reports.batch.inc" timestamp="1528283008897">
         <mark key="[" line="19" column="44" />
       </file>
@@ -700,6 +746,11 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/odl_events.info.yml" timestamp="1536072312952">
         <mark key="[" line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/services.yml" timestamp="1558391036646">
+        <mark key="[" line="3" column="10" />
+        <mark key="]" line="3" column="10" />
+        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/Email/ToAdminsToAction.php" timestamp="1537195837805">
         <mark key="[" line="13" column="22" />
@@ -730,6 +781,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_profile/tests/modules/odl_user_profile_test/config/install/field.storage.user.field_leader_type.yml" timestamp="1522760482112">
         <mark key="[" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/DependencyInjection/SculpinSpeakersExtension.php" timestamp="1558391026767">
+        <mark key="[" line="13" column="76" />
+        <mark key="]" line="13" column="76" />
+        <mark key="." line="13" column="76" />
+        <mark key="^" line="13" column="76" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_event_cancelled.yml" timestamp="1536914453487">
         <mark key="[" line="5" column="21" />
@@ -839,11 +896,14 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_concession_member_price.yml" timestamp="1524854605192">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/composer.json" timestamp="1558387539024">
-        <mark key="[" line="19" column="61" />
-        <mark key="]" line="27" column="18" />
-        <mark key="." line="27" column="18" />
-        <mark key="^" line="27" column="19" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/session-speakers.html.twig" timestamp="1558392580912">
+        <mark key="[" line="3" column="27" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/composer.json" timestamp="1558390290709">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="37" column="18" />
+        <mark key="." line="37" column="18" />
+        <mark key="^" line="37" column="19" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/modules/odl_private_message_archive/src/Entity/Access/ArchivePrivateMessageThreadAccessControlHandler.php" timestamp="1529322563730">
         <mark key="[" line="0" column="0" />
@@ -895,6 +955,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_leader_applications/tests/src/Kernel/CompletingStepsTest.php" timestamp="1538039184874">
         <mark key="[" line="98" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/SculpinSpeakersBundle.php" timestamp="1558391984734">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="21" />
+        <mark key="." line="1" column="21" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/src/Kernel/EventPlacesTest.php" timestamp="1531493165731">
         <mark key="[" line="83" column="14" />
@@ -1028,10 +1094,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Drupalize.me</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>Drupalize.me</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
