@@ -593,11 +593,20 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="25" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1558359678987">
+        <mark key="[" line="80" column="57" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/drush/odl.aliases.drushrc.php" timestamp="1533824287508">
         <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/themes/custom/astra/templates/channel/astra--channel-finder--listing.html.twig" timestamp="1558357978325">
+        <mark key="[" line="129" column="50" />
+        <mark key="]" line="131" column="0" />
+        <mark key="^" line="131" column="0" />
+        <mark key="." line="131" column="0" />
       </file>
       <file name="$USER_HOME$/Code/clients/tinhat/play.php" timestamp="1558296292674">
         <mark key="[" line="4" column="15" />
@@ -1104,10 +1113,6 @@
         <mark key="^" line="0" column="3" />
         <mark key="." line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/CHANGELOG.md" timestamp="1557774794903">
-        <mark key="]" line="17" column="5" />
-        <mark key="." line="17" column="5" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/src/Kernel/Access/EventLeaderOrAdminAccessCheckTest.php" timestamp="1539770249898">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="64" column="31" />
@@ -1357,6 +1362,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/modules/filter/tests/src/Functional/FilterDefaultFormatTest.php" timestamp="1522241411602">
         <mark key="[" line="34" column="44" />
       </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/ChannelView.php" timestamp="1558358058909" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/Email/NotificationEmail.php" timestamp="1536162756603">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
