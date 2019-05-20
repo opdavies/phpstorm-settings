@@ -306,6 +306,13 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/odl_events.services.yml" timestamp="1539769711133">
         <mark key="[" line="22" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/tests/TwigExtension/TalksExtensionTest.php" timestamp="1558310916857">
+        <mark key="'" line="6" column="30" />
+        <mark key="[" line="172" column="54" />
+        <mark key="]" line="170" column="13" />
+        <mark key="^" line="170" column="13" />
+        <mark key="." line="170" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/bracknell/docroot/modules/node/node.module" timestamp="1539181730929">
         <mark key="[" line="2755" column="35" />
       </file>
@@ -547,6 +554,12 @@
         <mark key="^" line="67" column="102" />
         <mark key="." line="67" column="102" />
       </file>
+      <file name="$USER_HOME$/Code/os/oliverdavies.uk/source/talks.html.twig" timestamp="1558311154531">
+        <mark key="[" line="35" column="68" />
+        <mark key="]" line="35" column="42" />
+        <mark key="^" line="35" column="42" />
+        <mark key="." line="35" column="42" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/scripts/waitlist-report-test.php" timestamp="1526289846384">
         <mark key="[" line="0" column="0" />
       </file>
@@ -657,6 +670,13 @@
       </file>
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/drupaltest/tests/src/Controllers/ExampleController.php" timestamp="1536752046184">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/src/TwigExtension/TalksExtension.php" timestamp="1558311652834">
+        <mark key="'" line="99" column="41" />
+        <mark key="[" line="112" column="31" />
+        <mark key="]" line="109" column="4" />
+        <mark key="^" line="109" column="4" />
+        <mark key="." line="109" column="4" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_leader_applications/src/Helpers/EditFormHelper.php" timestamp="1536916829199">
         <mark key="[" line="9" column="23" />
@@ -1759,10 +1779,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
-      <jump line="305" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
-      <jump line="282" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
-      <jump line="259" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="236" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="213" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="190" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
@@ -1859,16 +1875,20 @@
       <jump line="21" column="3" filename="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/features/ti_export/ti_export.module" />
       <jump line="14" column="3" filename="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/features/ti_export/lib/Drupal/ti_export/ExportedOrder.php" />
       <jump line="97" column="5" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_device_bulk_update/src/Controller/BulkUpdateController.php" />
+      <jump line="93" column="41" filename="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/src/TwigExtension/TalksExtension.php" />
+      <jump line="88" column="24" filename="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/tests/TwigExtension/TalksExtensionTest.php" />
+      <jump line="166" column="0" filename="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/tests/TwigExtension/TalksExtensionTest.php" />
+      <jump line="6" column="30" filename="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/tests/TwigExtension/TalksExtensionTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>tdClass</text>
+        <text>getEvents</text>
       </register>
       <register name="-" type="4">
-        <text>tdClass</text>
+        <text>getEvents</text>
       </register>
       <register name="/" type="4">
-        <text>1</text>
+        <text>arr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgZGJfdXBkYXRlKCR0YWJsZSkKICAgICAgICAtPmZpZWxkcyhhcnJheSgndGl0bGUnID0+ICcxIFllYXIgV2FycmFudHknKSkKICAgICAgICAtPmNvbmRpdGlvbigndGl0bGUnLCAnQmFzaWMnKQogICAgICAgIC0+ZXhlY3V0ZSgpOwo=</text>
@@ -1924,9 +1944,9 @@
       </register>
     </registers>
     <search>
-      <last-search>1</last-search>
+      <last-search>arr</last-search>
       <last-offset />
-      <last-pattern>1</last-pattern>
+      <last-pattern>arr</last-pattern>
       <last-replace>events</last-replace>
       <last-substitute>user_profile</last-substitute>
       <last-dir>1</last-dir>
@@ -1934,7 +1954,6 @@
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
         <entry>tread_id</entry>
         <entry>waitlist</entry>
         <entry>twig</entry>
@@ -1954,6 +1973,7 @@
         <entry>drupal</entry>
         <entry>core</entry>
         <entry>1</entry>
+        <entry>arr</entry>
       </history-search>
       <history-cmd>
         <entry>5</entry>
