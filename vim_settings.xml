@@ -832,11 +832,11 @@
       <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/session-speakers.html.twig" timestamp="1558392580912">
         <mark key="[" line="3" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/composer.json" timestamp="1558419791482">
-        <mark key="[" line="20" column="6" />
-        <mark key="]" line="37" column="18" />
-        <mark key="." line="37" column="18" />
-        <mark key="^" line="37" column="19" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/composer.json" timestamp="1558422373089">
+        <mark key="[" line="22" column="36" />
+        <mark key="]" line="38" column="18" />
+        <mark key="." line="38" column="18" />
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/modules/odl_private_message_archive/src/Entity/Access/ArchivePrivateMessageThreadAccessControlHandler.php" timestamp="1529322563730">
         <mark key="[" line="0" column="0" />
@@ -970,11 +970,11 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/drupaltest/src/Service/UserDeleter.php" timestamp="1536752414626">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/tests/SpeakerTest.php" timestamp="1558419622249">
-        <mark key="[" line="32" column="1" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/tests/SpeakerTest.php" timestamp="1558422322684">
+        <mark key="[" line="62" column="27" />
+        <mark key="]" line="62" column="27" />
+        <mark key="^" line="62" column="33" />
+        <mark key="." line="62" column="27" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_clone_event/odl_clone_event.services.yml" timestamp="1529673777784">
         <mark key="[" line="3" column="37" />
@@ -1105,10 +1105,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Sponsors</text>
+        <text>Phil Thomas</text>
       </register>
       <register name="-" type="4">
-        <text>Sponsors</text>
+        <text>Phil Thomas</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
