@@ -90,6 +90,9 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/tdd_blog/tdd_blog.info.yml" timestamp="1536753493471">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" timestamp="1558464313369">
+        <mark key="[" line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/config/install/odl_leader_rewards.settings.yml" timestamp="1536832366660">
         <mark key="[" line="0" column="0" />
       </file>
@@ -168,11 +171,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/.docksal/commands/config-export" timestamp="1525946306550">
         <mark key="[" line="6" column="11" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/1-dan-mcnamara.md" timestamp="1558394029022">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_profile/odl_user_profile.info.yml" timestamp="1522756447461">
         <mark key="[" line="4" column="9" />
       </file>
@@ -205,11 +203,6 @@
       </file>
       <file name="$USER_HOME$/Code/atom/donuts/law-donut/.gitignore" timestamp="1534420713595">
         <mark key="[" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/3-daniel-pickering.md" timestamp="1558394009919">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_export/odl_user_export.info.yml" timestamp="1538565971678">
         <mark key="[" line="6" column="25" />
@@ -493,10 +486,11 @@
       <file name="$USER_HOME$/Code/atom/donuts/startup-donut/docroot/sites/default/settings.php" timestamp="1534420457495">
         <mark key="[" line="79" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/front-speakers.html.twig" timestamp="1558394125602">
-        <mark key="[" line="9" column="128" />
-        <mark key="]" line="9" column="128" />
-        <mark key="." line="9" column="128" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/front-speakers.html.twig" timestamp="1558465064860">
+        <mark key="[" line="5" column="67" />
+        <mark key="]" line="5" column="67" />
+        <mark key="^" line="5" column="67" />
+        <mark key="." line="5" column="67" />
       </file>
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/themes/donut2/package.json" timestamp="1534952294749">
         <mark key="[" line="0" column="1" />
@@ -506,11 +500,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/commerce_stripe/config/schema/commerce_stripe.schema.yml" timestamp="1537275960879">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/2-matt-haworth.md" timestamp="1558394035683">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/src/Mailer/RoleChangeMailer.php" timestamp="1538843738235">
         <mark key="[" line="51" column="107" />
@@ -571,11 +560,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/modules/odl_private_message_archive/src/PrivateMessageThreadArchivedViewsData.php" timestamp="1529318270962">
         <mark key="[" line="2" column="50" />
-      </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/services.yml" timestamp="1558391036646">
-        <mark key="[" line="3" column="10" />
-        <mark key="]" line="3" column="10" />
-        <mark key="." line="3" column="10" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/commerce/commerce-order-total-summary.html.twig" timestamp="1535624771593">
         <mark key="[" line="37" column="140" />
@@ -856,9 +840,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/modules/odl_private_message_archive/src/Entity/Access/ArchivePrivateMessageThreadAccessControlHandler.php" timestamp="1529322563730">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/TwigExtension/SpeakersExtension.php" timestamp="1558463051190">
-        <mark key="[" line="52" column="18" />
-      </file>
       <file name="$USER_HOME$/Code/tinhat/repo/play.php" timestamp="1540581552847">
         <mark key="[" line="1" column="0" />
       </file>
@@ -1017,7 +998,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="175" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="170" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="165" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
@@ -1117,13 +1097,14 @@
       <jump line="63" column="10" filename="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/src/TwigExtension/TalksExtension.php" />
       <jump line="127" column="41" filename="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/tests/TwigExtension/TalksExtensionTest.php" />
       <jump line="38" column="6" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
+      <jump line="43" column="0" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sessions_for_a_speaker</text>
+        <text>ttw--mb-12</text>
       </register>
       <register name="-" type="4">
-        <text>sessions_for_a_speaker</text>
+        <text>ttw--mb-12</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
