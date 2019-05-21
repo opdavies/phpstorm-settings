@@ -99,6 +99,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/src/Kernel/PurchasableDatesTest.php" timestamp="1536142994890">
         <mark key="[" line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/Model/Speaker.php" timestamp="1558427799119">
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="19" column="4" />
+        <mark key="." line="19" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/.docksal/addons/phpunit/phpunit" timestamp="1529490099758">
         <mark key="[" line="1" column="0" />
       </file>
@@ -829,8 +835,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_concession_member_price.yml" timestamp="1524854605192">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/session-speakers.html.twig" timestamp="1558392580912">
-        <mark key="[" line="3" column="27" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/session-speakers.html.twig" timestamp="1558427939927">
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/composer.json" timestamp="1558422373089">
         <mark key="[" line="22" column="36" />
@@ -840,12 +849,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/modules/odl_private_message_archive/src/Entity/Access/ArchivePrivateMessageThreadAccessControlHandler.php" timestamp="1529322563730">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/TwigExtension/SpeakersExtension.php" timestamp="1558394053888">
-        <mark key="[" line="46" column="69" />
-        <mark key="]" line="46" column="69" />
-        <mark key="^" line="46" column="68" />
-        <mark key="." line="46" column="69" />
       </file>
       <file name="$USER_HOME$/Code/tinhat/repo/play.php" timestamp="1540581552847">
         <mark key="[" line="1" column="0" />
@@ -1105,10 +1108,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Phil Thomas</text>
+        <text>name</text>
       </register>
       <register name="-" type="4">
-        <text>Phil Thomas</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
