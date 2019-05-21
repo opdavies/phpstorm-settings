@@ -646,8 +646,8 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1558443015792">
-        <mark key="[" line="86" column="0" />
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1558444348757">
+        <mark key="[" line="92" column="5" />
         <mark key="]" line="86" column="0" />
         <mark key="^" line="86" column="0" />
         <mark key="." line="86" column="0" />
