@@ -385,6 +385,12 @@
       <file name="$USER_HOME$/Code/bracknell/docroot/modules/node/node.module" timestamp="1539181730929">
         <mark key="[" line="2755" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/tests/SessionTest.php" timestamp="1558463027831">
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="^" line="23" column="4" />
+      </file>
       <file name="$USER_HOME$/Code/os/phpsw-ng/webpack.mix.js" timestamp="1557880283779">
         <mark key="[" line="10" column="14" />
       </file>
@@ -850,6 +856,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/modules/odl_private_message_archive/src/Entity/Access/ArchivePrivateMessageThreadAccessControlHandler.php" timestamp="1529322563730">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/TwigExtension/SpeakersExtension.php" timestamp="1558463051190">
+        <mark key="[" line="52" column="18" />
+      </file>
       <file name="$USER_HOME$/Code/tinhat/repo/play.php" timestamp="1540581552847">
         <mark key="[" line="1" column="0" />
       </file>
@@ -1111,10 +1120,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_if_no_environment_variable_exists</text>
+        <text>sessions_for_a_speaker</text>
       </register>
       <register name="-" type="4">
-        <text>_if_no_environment_variable_exists</text>
+        <text>sessions_for_a_speaker</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
