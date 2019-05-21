@@ -180,6 +180,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Form/ConfirmFormBase.php" timestamp="1529588745063">
         <mark key="[" line="59" column="5" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_layouts/speaker.html.twig" timestamp="1558472993563">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/fields/field.html.twig" timestamp="1526298423140">
         <mark key="[" line="49" column="0" />
       </file>
@@ -627,6 +630,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_profile/tests/modules/odl_user_profile_test/config/install/field.storage.user.field_leader_type.yml" timestamp="1522760482112">
         <mark key="[" line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_layouts/page.html.twig" timestamp="1558472976583">
+        <mark key="[" line="4" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/DependencyInjection/SculpinSpeakersExtension.php" timestamp="1558391026767">
         <mark key="[" line="13" column="76" />
         <mark key="]" line="13" column="76" />
@@ -701,6 +707,9 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/modules/views/views.views.inc" timestamp="1528729417633">
         <mark key="[" line="148" column="88" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/nav.html.twig" timestamp="1558473139309">
+        <mark key="[" line="22" column="50" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/odl_commerce_test.info.yml" timestamp="1522938247390">
         <mark key="[" line="4" column="0" />
@@ -998,6 +1007,9 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/odl_leader_rewards.info.yml" timestamp="1535971648762">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/resources/css/app.css" timestamp="1558472899620">
+        <mark key="[" line="2" column="0" />
       </file>
     </filemarks>
     <jumps>
