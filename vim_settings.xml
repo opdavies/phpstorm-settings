@@ -93,7 +93,8 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/tdd_blog/tdd_blog.info.yml" timestamp="1536753493471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" timestamp="1558560337440">
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" timestamp="1558560953098">
+        <mark key="'" line="49" column="0" />
         <mark key="[" line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/Model/Session.php" timestamp="1558548253155">
@@ -1055,8 +1056,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
-      <jump line="86" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="83" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="77" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
@@ -1155,6 +1154,8 @@
       <jump line="6" column="0" filename="$USER_HOME$/Code/dcb-2019-static/source/_includes/schedule.html.twig" />
       <jump line="5" column="15" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
       <jump line="47" column="27" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
+      <jump line="45" column="0" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
+      <jump line="49" column="0" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
