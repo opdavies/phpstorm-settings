@@ -195,6 +195,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/scripts/play.php" timestamp="1540202446413">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/banner.html.twig" timestamp="1558523022478">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.taxonomy_term.field_full_member_price.yml" timestamp="1529504333762">
         <mark key="[" line="5" column="21" />
       </file>
@@ -709,11 +712,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/modules/views/views.views.inc" timestamp="1528729417633">
         <mark key="[" line="148" column="88" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/nav.html.twig" timestamp="1558473819472">
-        <mark key="[" line="35" column="78" />
-        <mark key="]" line="36" column="27" />
-        <mark key="^" line="36" column="27" />
-        <mark key="." line="36" column="27" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/nav.html.twig" timestamp="1558523042899">
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="27" />
+        <mark key="^" line="37" column="27" />
+        <mark key="." line="37" column="27" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/odl_commerce_test.info.yml" timestamp="1522938247390">
         <mark key="[" line="4" column="0" />
@@ -847,8 +850,8 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_concession_member_price.yml" timestamp="1524854605192">
         <mark key="[" line="5" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/session-speakers.html.twig" timestamp="1558427939927">
-        <mark key="[" line="5" column="34" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/session-speakers.html.twig" timestamp="1558523049931">
+        <mark key="[" line="6" column="32" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
