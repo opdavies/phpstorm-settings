@@ -641,12 +641,6 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1558530959773">
-        <mark key="[" line="98" column="5" />
-        <mark key="]" line="98" column="5" />
-        <mark key="^" line="86" column="0" />
-        <mark key="." line="98" column="5" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
       </file>
@@ -2020,10 +2014,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>sm_channel_package_title</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>sm_channel_package_title</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
