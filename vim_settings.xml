@@ -641,9 +641,11 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1558538862205">
-        <mark key="[" line="149" column="36" />
-        <mark key="o" line="148" column="0" />
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1558541436376">
+        <mark key="[" line="25" column="20" />
+        <mark key="]" line="25" column="20" />
+        <mark key="^" line="25" column="20" />
+        <mark key="." line="25" column="20" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
