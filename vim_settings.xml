@@ -540,9 +540,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/Event/EventArchivedEvent.php" timestamp="1536233000922">
         <mark key="[" line="8" column="59" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/schedule.html.twig" timestamp="1558564326608">
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/schedule.html.twig" timestamp="1558567222611">
         <mark key="'" line="7" column="0" />
-        <mark key="[" line="10" column="63" />
+        <mark key="[" line="12" column="33" />
         <mark key="]" line="9" column="87" />
         <mark key="^" line="9" column="87" />
         <mark key="." line="9" column="87" />
@@ -812,10 +812,10 @@
         <mark key="[" line="19" column="47" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/app/SculpinKernel.php" timestamp="1558563679952">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="27" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="14" column="27" />
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="27" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/EntityStorageInterface.php" timestamp="1538643397068">
         <mark key="[" line="54" column="14" />
