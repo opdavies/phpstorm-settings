@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Code/clients/ses-astra/assets/lyngsat.csv" timestamp="1558601555550">
+        <mark key="'" line="12" column="826" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_event_end_date.yml" timestamp="1535663248800">
         <mark key="[" line="6" column="21" />
       </file>
@@ -21,6 +24,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/modules/odl_private_message_archive/src/Exception/ArchiveThreadException.php" timestamp="1529398859596">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Import/Lyngsat/LyngsatChannelRowMapper.php" timestamp="1558601611998" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_profile/odl_user_profile.services.yml" timestamp="1535646298985">
         <mark key="[" line="6" column="56" />
       </file>
@@ -517,6 +521,9 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/.env" timestamp="1558601800864">
+        <mark key="[" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_pay_as_you_go_member_price.yml" timestamp="1529505209283">
         <mark key="[" line="5" column="21" />
       </file>
@@ -646,11 +653,11 @@
         <mark key="^" line="26" column="35" />
         <mark key="." line="25" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1558541436376">
-        <mark key="[" line="25" column="20" />
-        <mark key="]" line="25" column="20" />
-        <mark key="^" line="25" column="20" />
-        <mark key="." line="25" column="20" />
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1558600839366">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="102" column="0" />
+        <mark key="^" line="102" column="0" />
+        <mark key="." line="102" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
@@ -1831,6 +1838,7 @@
         <mark key="." line="7" column="26" />
         <mark key="^" line="7" column="28" />
       </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Import/Lyngsat/LyngsatChannelImporter.php" timestamp="1558601089094" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_leader_applications/src/Entity/Access/LeaderApplicationAccessControlHandler.php" timestamp="1537874827917">
         <mark key="[" line="12" column="24" />
       </file>
@@ -1947,7 +1955,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="175" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="170" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="165" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="160" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
@@ -2047,13 +2054,14 @@
       <jump line="127" column="41" filename="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/tests/TwigExtension/TalksExtensionTest.php" />
       <jump line="38" column="6" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
       <jump line="188" column="6" filename="$USER_HOME$/Code/clients/ses-astra/docroot/sites/default/settings.php" />
+      <jump line="12" column="826" filename="$USER_HOME$/Code/clients/ses-astra/assets/lyngsat.csv" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="&quot;" type="4">
+        <text>getResponse</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>getResponse</text>
       </register>
       <register name="/" type="4">
         <text>arr</text>
