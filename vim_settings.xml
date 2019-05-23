@@ -646,11 +646,11 @@
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/sites/default/settings.php" timestamp="1534420680650">
         <mark key="[" line="78" column="3" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_sessions/automate-repetitive-tasks-ansible.md" timestamp="1558571792745">
-        <mark key="[" line="1" column="55" />
-        <mark key="]" line="7" column="2" />
-        <mark key="^" line="7" column="2" />
-        <mark key="." line="7" column="2" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_sessions/automate-repetitive-tasks-ansible.md" timestamp="1558599033914">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="7" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="7" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_profile/tests/modules/odl_user_profile_test/odl_user_profile_test.info.yml" timestamp="1522760953698">
         <mark key="[" line="5" column="20" />
@@ -1213,10 +1213,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Dan McNamara</text>
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>Dan McNamara</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>label</text>
@@ -1271,7 +1271,7 @@
         <text encoding="base64">dGFwKCR0ZXJtLT5nZXQoJ2ZpZWxkX2RldmljZV9tb2RlbF9jb3Zlcl92YWx1ZScpLCBmdW5jdGlvbiAoXEVudGl0eVZhbHVlV3JhcHBlciAkZmllbGQpIHVzZSAoJHRlcm0sICRhbW91bnQpOiB2b2lkIHsKICAgICAgaWYgKCRmaWVsZC0+dmFsdWUoKSA9PSAkYW1vdW50KSB7CiAgICAgICAgLy8gUmVjb3JkIHRoZSBza2lwcGVkIGRldmljZSBhbmQgcGVyZm9ybSBubyBmdXJ0aGVyIGFjdGlvbi4=</text>
       </register>
       <register name=":" type="4">
-        <text>7</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1279,7 +1279,7 @@
       <last-offset />
       <last-pattern>label</last-pattern>
       <last-replace>events</last-replace>
-      <last-substitute>user_profile</last-substitute>
+      <last-substitute>label</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -1307,7 +1307,6 @@
         <entry>label</entry>
       </history-search>
       <history-cmd>
-        <entry>s</entry>
         <entry>314</entry>
         <entry>377</entry>
         <entry>x</entry>
@@ -1322,11 +1321,12 @@
         <entry>s/odl_user_profile/odl_events/h</entry>
         <entry>s/user_profile/events/g</entry>
         <entry>454</entry>
-        <entry>w</entry>
         <entry>6</entry>
         <entry>3</entry>
         <entry>4</entry>
         <entry>7</entry>
+        <entry>~</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
