@@ -631,6 +631,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/commerce/commerce-order-total-summary.html.twig" timestamp="1535624771593">
         <mark key="[" line="37" column="140" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/devicelife/settings.php" timestamp="1558638262980" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/Email/ToAdminsToAction.php" timestamp="1537195837805">
         <mark key="[" line="13" column="22" />
       </file>
@@ -660,6 +661,11 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/modules/filter/tests/src/Functional/FilterDefaultFormatTest.php" timestamp="1522241411602">
         <mark key="[" line="34" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/default/themes/tinhat/tailwind.js" timestamp="1558638935948">
+        <mark key="[" line="98" column="23" />
+        <mark key="]" line="98" column="23" />
+        <mark key="." line="98" column="23" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_pay_as_you_go_member_price.yml" timestamp="1529505209283">
         <mark key="[" line="5" column="21" />
@@ -846,6 +852,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/drush/odl.aliases.drushrc.php" timestamp="1533824287508">
         <mark key="[" line="2" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_quote_angular/html/steps/1.html" timestamp="1558639026166">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="3" column="13" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_leader_applications/src/Helper/FormHelper.php" timestamp="1536916923577">
         <mark key="[" line="2" column="43" />
@@ -1226,10 +1238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>items</text>
+        <text>tw-text-blue-darkest tw-font-normal tw-text-5xl</text>
       </register>
       <register name="-" type="4">
-        <text>items</text>
+        <text>tw-text-blue-darkest tw-font-normal tw-text-5xl</text>
       </register>
       <register name="/" type="4">
         <text>Kei</text>
