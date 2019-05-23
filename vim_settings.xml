@@ -550,8 +550,11 @@
       <file name="$USER_HOME$/Code/atom/donuts/startup-donut/docroot/sites/default/settings.php" timestamp="1534420457495">
         <mark key="[" line="79" column="4" />
       </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/front-speakers.html.twig" timestamp="1558559303020">
-        <mark key="[" line="7" column="66" />
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/front-speakers.html.twig" timestamp="1558605852891">
+        <mark key="[" line="8" column="92" />
+        <mark key="]" line="8" column="92" />
+        <mark key="^" line="8" column="104" />
+        <mark key="." line="8" column="92" />
       </file>
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/themes/donut2/package.json" timestamp="1534952294749">
         <mark key="[" line="0" column="1" />
@@ -880,6 +883,13 @@
       <file name="$USER_HOME$/Code/oliverdavies.uk-d8/web/modules/custom/opdavies_blog/src/Trait/BlogTrait.php" timestamp="1534422704768">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/5-rick-donohoe.md" timestamp="1558605730078">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="6" />
+        <mark key="^" line="2" column="6" />
+        <mark key="." line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_clone_event/odl_clone_event.routing.yml" timestamp="1528297594585">
         <mark key="[" line="6" column="12" />
       </file>
@@ -987,6 +997,9 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_leader_applications/src/Entity/Access/LeaderApplicationAccessControlHandler.php" timestamp="1537874827917">
         <mark key="[" line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/4-keith-jay.md" timestamp="1558605608082">
+        <mark key="[" line="2" column="25" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/.docksal/commands/build-theme" timestamp="1533549203499">
         <mark key="[" line="10" column="37" />
@@ -1110,7 +1123,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="77" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="53" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
@@ -1210,16 +1222,17 @@
       <jump line="49" column="0" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
       <jump line="5" column="14" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
       <jump line="47" column="20" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/dcb-2019-static/source/_speakers/5-rick-donohoe.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>3</text>
+        <text>items</text>
       </register>
       <register name="-" type="4">
-        <text>3</text>
+        <text>items</text>
       </register>
       <register name="/" type="4">
-        <text>label</text>
+        <text>Kei</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7JSBpbmNsdWRlICd0YWxrcy91cGNvbWluZycgd2l0aCB7CiAgICAgICAgICAgIHRhbGtzOiBnZXRUYWxrcyhwYWdlLnRhbGtzfG1lcmdlKGRhdGEudGFsa3MpKXx1cGNvbWluZywKICAgICAgICB9ICV9CgpuCg==</text>
@@ -1275,9 +1288,9 @@
       </register>
     </registers>
     <search>
-      <last-search>label</last-search>
+      <last-search>Kei</last-search>
       <last-offset />
-      <last-pattern>label</last-pattern>
+      <last-pattern>Kei</last-pattern>
       <last-replace>events</last-replace>
       <last-substitute>label</last-substitute>
       <last-dir>1</last-dir>
@@ -1285,7 +1298,6 @@
     </search>
     <history>
       <history-search>
-        <entry>true</entry>
         <entry>red</entry>
         <entry>20</entry>
         <entry>Add</entry>
@@ -1305,6 +1317,7 @@
         <entry>speaker</entry>
         <entry>time</entry>
         <entry>label</entry>
+        <entry>Kei</entry>
       </history-search>
       <history-cmd>
         <entry>314</entry>
