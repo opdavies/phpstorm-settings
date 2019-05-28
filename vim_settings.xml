@@ -651,6 +651,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/better_field_descriptions/src/Form/BetterFieldDescriptionsSettingsForm.php" timestamp="1526049784874">
         <mark key="[" line="80" column="64" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/includes/common.inc" timestamp="1559053461521" />
       <file name="$USER_HOME$/Code/outdoorlads/scripts/event-wrapper.php" timestamp="1528888959093">
         <mark key="[" line="0" column="0" />
       </file>
@@ -793,6 +794,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_admin/odl_base/odl_base.info.yml" timestamp="1538049430075">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/themes/custom/tinhat/template.php" timestamp="1559054075775">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="521" column="0" />
+        <mark key="]" line="526" column="15" />
+        <mark key="." line="526" column="15" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/scripts/waitlist-report-test.php" timestamp="1526289846384">
         <mark key="[" line="0" column="0" />
@@ -1194,7 +1201,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="66" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="53" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="42" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
@@ -1294,13 +1300,14 @@
       <jump line="5" column="14" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
       <jump line="47" column="20" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/dcb-2019-static/source/_speakers/5-rick-donohoe.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/themes/custom/tinhat/template.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>obj</text>
+        <text>js</text>
       </register>
       <register name="-" type="4">
-        <text>obj</text>
+        <text>js</text>
       </register>
       <register name="/" type="4">
         <text>Kei</text>
