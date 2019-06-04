@@ -631,7 +631,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/commerce/commerce-order-total-summary.html.twig" timestamp="1535624771593">
         <mark key="[" line="37" column="140" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/devicelife/settings.php" timestamp="1558638262980" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/Email/ToAdminsToAction.php" timestamp="1537195837805">
         <mark key="[" line="13" column="22" />
       </file>
@@ -828,6 +827,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/EntityStorageInterface.php" timestamp="1538643397068">
         <mark key="[" line="54" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1559655287347">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="^" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
