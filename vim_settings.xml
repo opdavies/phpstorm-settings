@@ -399,6 +399,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/private-message-thread/private-message-thread--inbox.html.twig" timestamp="1529414080529">
         <mark key="[" line="23" column="51" />
       </file>
+      <file name="$USER_HOME$/Code/talks/blueconf/drupal/.docksal/commands/init" timestamp="1559762676115">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/app/config/sculpin_kernel.yml" timestamp="1558393995362">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="28" />
@@ -907,6 +913,12 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/talks/blueconf/vuejs/src/components/SessionForm.vue" timestamp="1559762109269">
+        <mark key="[" line="49" column="60" />
+        <mark key="]" line="49" column="60" />
+        <mark key="^" line="49" column="60" />
+        <mark key="." line="49" column="60" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/speaker-session.html.twig" timestamp="1558547589055">
         <mark key="[" line="0" column="29" />
       </file>
@@ -1309,10 +1321,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>preprocess_html</text>
+        <text>11dad4c2-baa8-4fb2-97c6-12e1ce925806</text>
       </register>
       <register name="-" type="4">
-        <text>preprocess_html</text>
+        <text>11dad4c2-baa8-4fb2-97c6-12e1ce925806</text>
       </register>
       <register name="/" type="4">
         <text>Kei</text>
