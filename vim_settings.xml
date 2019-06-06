@@ -33,9 +33,6 @@
       <file name="$USER_HOME$/Code/dcb-2019-static/source/_sessions/doing-good-with-drupal.md" timestamp="1558565560669">
         <mark key="[" line="2" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Import/Lyngsat/LyngsatChannelRowMapper.php" timestamp="1559739032967">
-        <mark key="[" line="81" column="32" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_profile/odl_user_profile.services.yml" timestamp="1535646298985">
         <mark key="[" line="6" column="56" />
       </file>
@@ -98,6 +95,11 @@
       </file>
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/tdd_blog/tdd_blog.info.yml" timestamp="1536753493471">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/src/Service/ImporterInterface.php" timestamp="1558727914888">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/config/install/odl_leader_rewards.settings.yml" timestamp="1536832366660">
         <mark key="[" line="0" column="0" />
@@ -183,6 +185,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_clone_event/odl_clone_event.links.task.yml" timestamp="1523019780503">
         <mark key="[" line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/dcb-2019-static/source/_sessions/real-state-of-drupal.md" timestamp="1558564442066">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="3" column="11" />
+        <mark key="." line="3" column="11" />
+      </file>
       <file name="$USER_HOME$/Code/atom/donuts/sectors-donut/docroot/sites/default/settings.php" timestamp="1534420147141">
         <mark key="[" line="86" column="4" />
       </file>
@@ -255,9 +262,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_export/odl_user_export.info.yml" timestamp="1538565971678">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/sites/default/settings.php" timestamp="1559744084921">
-        <mark key="'" line="820" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/Controller/WaitlistedReport.php" timestamp="1526290132261">
         <mark key="[" line="37" column="37" />
       </file>
@@ -324,6 +328,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/src/Kernel/OdlCommerceEventKernelTestBase.php" timestamp="1523880943864">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/dtc_import.services.yml" timestamp="1558733185630">
+        <mark key="[" line="6" column="41" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/src/Member/MemberRoleType.php" timestamp="1526912493247">
         <mark key="[" line="8" column="0" />
       </file>
@@ -389,6 +398,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/private-message-thread/private-message-thread--inbox.html.twig" timestamp="1529414080529">
         <mark key="[" line="23" column="51" />
+      </file>
+      <file name="$USER_HOME$/Code/talks/blueconf/drupal/.docksal/commands/init" timestamp="1559762676115">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/app/config/sculpin_kernel.yml" timestamp="1558393995362">
         <mark key="[" line="4" column="28" />
@@ -558,11 +573,6 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/config/local/search_api.index.search.yml" timestamp="1559817121230">
-        <mark key="[" line="111" column="10" />
-        <mark key="]" line="111" column="10" />
-        <mark key="." line="111" column="10" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/sites/default/settings.outdoorlads.php" timestamp="1530021739812">
         <mark key="[" line="10" column="24" />
       </file>
@@ -665,12 +675,6 @@
       <file name="$USER_HOME$/Code/bracknell/docroot/sites/all/modules/custom/localgov/localgov_feature_related/localgov_feature_related.views_default.inc" timestamp="1539191219022">
         <mark key="[" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/assets/oliver-channels.csv" timestamp="1559752776445">
-        <mark key="[" line="200" column="0" />
-        <mark key="]" line="200" column="0" />
-        <mark key="^" line="200" column="0" />
-        <mark key="." line="200" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/odl_leader_events.module" timestamp="1536156461645">
         <mark key="[" line="5" column="52" />
       </file>
@@ -695,7 +699,6 @@
         <mark key="." line="20" column="68" />
         <mark key="^" line="26" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docs/channel-finder.md" timestamp="1559727678517" />
       <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/dtc_import.info.yml" timestamp="1558725670838">
         <mark key="[" line="0" column="0" />
       </file>
@@ -719,6 +722,11 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/modules/filter/tests/src/Functional/FilterDefaultFormatTest.php" timestamp="1522241411602">
         <mark key="[" line="34" column="44" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/default/themes/tinhat/tailwind.js" timestamp="1558638935948">
+        <mark key="[" line="98" column="23" />
+        <mark key="]" line="98" column="23" />
+        <mark key="." line="98" column="23" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_pay_as_you_go_member_price.yml" timestamp="1529505209283">
         <mark key="[" line="5" column="21" />
@@ -891,11 +899,10 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/EntityStorageInterface.php" timestamp="1538643397068">
         <mark key="[" line="54" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1559816425872">
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="11" />
-        <mark key="^" line="25" column="11" />
-        <mark key="." line="25" column="11" />
+      <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/Service/CsvImporter.php" timestamp="1558725846426">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="25" />
+        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
@@ -905,6 +912,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/talks/blueconf/vuejs/src/components/SessionForm.vue" timestamp="1559762109269">
+        <mark key="[" line="49" column="60" />
+        <mark key="]" line="49" column="60" />
+        <mark key="^" line="49" column="60" />
+        <mark key="." line="49" column="60" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/speaker-session.html.twig" timestamp="1558547589055">
         <mark key="[" line="0" column="29" />
@@ -1053,7 +1066,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/src/Kernel/OdlCommerceTestBase.php" timestamp="1539955165430">
         <mark key="[" line="45" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Command/ImportChannelCommand.php" timestamp="1559738182636" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/modules/locale/src/StringDatabaseStorage.php" timestamp="1532687841906">
         <mark key="[" line="445" column="0" />
       </file>
@@ -1098,11 +1110,6 @@
       </file>
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_order_export/src/Exception/EmptyOrderException.php" timestamp="1541364401718">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/config/sync/search_api.index.search.yml" timestamp="1559817109032">
-        <mark key="[" line="111" column="10" />
-        <mark key="]" line="111" column="10" />
-        <mark key="." line="111" column="10" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Utility/Token.php" timestamp="1536161992274">
         <mark key="[" line="184" column="21" />
@@ -1200,11 +1207,6 @@
         <mark key="^" line="168" column="15" />
         <mark key="." line="168" column="15" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/astra_channel.module" timestamp="1559745999309">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/src/ProductVariation.php" timestamp="1523960562882">
         <mark key="[" line="6" column="28" />
       </file>
@@ -1216,6 +1218,7 @@
       </file>
     </filemarks>
     <jumps>
+      <jump line="66" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="53" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="42" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="31" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
@@ -1315,14 +1318,13 @@
       <jump line="47" column="20" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/dcb-2019-static/source/_speakers/5-rick-donohoe.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/themes/custom/tinhat/template.php" />
-      <jump line="820" column="0" filename="$USER_HOME$/Code/clients/ses-astra/docroot/sites/default/settings.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>text</text>
+        <text>11dad4c2-baa8-4fb2-97c6-12e1ce925806</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>11dad4c2-baa8-4fb2-97c6-12e1ce925806</text>
       </register>
       <register name="/" type="4">
         <text>Kei</text>
@@ -1331,19 +1333,19 @@
         <text encoding="base64">ICAgICAgICB7JSBpbmNsdWRlICd0YWxrcy91cGNvbWluZycgd2l0aCB7CiAgICAgICAgICAgIHRhbGtzOiBnZXRUYWxrcyhwYWdlLnRhbGtzfG1lcmdlKGRhdGEudGFsa3MpKXx1cGNvbWluZywKICAgICAgICB9ICV9CgpuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBmb3JlYWNoICgkZG9jdW1lbnRzIGFzICRkb2N1bWVudCkgewogICAgZHVtcCgkZG9jdW1lbnRbJ3RtX2NoYW5uZWxfcGFja2FnZV90aXRsZSddKTsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAkcXVlcnktPmV4ZWN1dGUoKTsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAkcXVlcnkgPSBkYl9xdWVyeSgnU0VMRUNUICogRlJPTSB7YmxvY2tfYXJpYV9sYW5kbWFya19yb2xlc30nKTsKICAkcXVlcnktPmV4ZWN1dGUoKTsKICB2YXJfZHVtcCgkcXVlcnktPmZldGNoQWxsKCkpOwp9Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgcmV0dXJuICR0aGlzLT5jcmVhdGVTZXNzaW9uTm9kZSgpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgU3BlYWtlclRlc3QgZXh0ZW5kcyBUZXN0Q2FzZQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBlbHNlICV9CiAgICAgICAgICAgICAgICAgICAgICAgIHNmanNkZmsKICAgICAgICAgICAgICAgICAgICB7JSBlbmRpZiAlfQo=</text>
       </register>
       <register name="u" type="4">
         <keys>
@@ -1365,19 +1367,19 @@
         </keys>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y2xhc3MgU3BlYWtlclRlc3QgZXh0ZW5kcyBUZXN0Q2FzZQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBlbHNlICV9CiAgICAgICAgICAgICAgICAgICAgICAgIHNmanNkZmsKICAgICAgICAgICAgICAgICAgICB7JSBlbmRpZiAlfQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogQHZhciBUYWxrc0V4dGVuc2lvbgogICAgICovCg==</text>
       </register>
-      <register name="9" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJHRoaXMtPmV4dGVuc2lvbi0+ZmlsdGVyVXBjb21pbmcoJHRhbGtzKSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVtcHR5KCR0aGlzLT5leHRlbnNpb24tPmZpbHRlclBhc3QoJHRhbGtzKSk7CiAgICB9CgogICAgLyoqIEB0ZXN0ICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0X2V2ZW50c19mcm9tX3RhbGtzKCkKICAgIHsKICAgICAgICAkdGFsa0EgPSBbCiAgICAgICAgICAgICd0aXRsZScgPT4gJ1RhbGsgQScsCiAgICAgICAgICAgICdldmVudHMnID0+IFsKICAgICAgICAgICAgICAgIFsnZXZlbnQnID0+ICdldmVudF9hJywgJ2RhdGUnID0+IChuZXcgRGF0ZVRpbWUoJy0xIGRheXMnKSktPmdldFRpbWVzdGFtcCgpXSwKICAgICAgICAgICAgICAgIFsnZXZlbnQnID0+ICdldmVudF9iJywgJ2RhdGUnID0+IChuZXcgRGF0ZVRpbWUoJysxIGRheXMnKSktPmdldFRpbWVzdGFtcCgpXSwKICAgICAgICAgICAgXSwKICAgICAgICBdOwoKICAgICAgICAkdGFsa0IgPSBbCiAgICAgICAgICAgICd0aXRsZScgPT4gJ1RhbGsgQicsCiAgICAgICAgICAgICdldmVudHMnID0+IFsKICAgICAgICAgICAgICAgIFsnZXZlbnQnID0+ICdldmVudF9hJywgJ2RhdGUnID0+IChuZXcgRGF0ZVRpbWUoJy0zIGRheXMnKSktPmdldFRpbWVzdGFtcCgpXSwKICAgICAgICAgICAgXSwKICAgICAgICBdOwoKICAgICAgICAkdGFsa3MgPSBjb2xsZWN0KFskdGFsa0EsICR0YWxrQl0pOwoKICAgICAgICB0YXAoJHRoaXMtPmV4dGVuc2lvbi0+Z2V0RXZlbnRzKCR0YWxrcyksIGZ1bmN0aW9uIChDb2xsZWN0aW9uICRldmVudHMpIHsKICAgICAgICAgICAgJHRoaXMtPmFzc2VydENvdW50KDMsICRldmVudHMpOwoKICAgICAgICAgICAgJHRoaXMtPmFzc2VydFNhbWUoCiAgICAgICAgICAgICAgICBbJ2V2ZW50X2EnLCAnZXZlbnRfYicsICdldmVudF9hJ10sCiAgICAgICAgICAgICAgICAkZXZlbnRzLT5wbHVjaygnZXZlbnQnKS0+dG9BcnJheSgpCiAgICAgICAgICAgICk7CgogICAgICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgzLCAkZXZlbnRzLT5wbHVjaygnZGF0ZScpLT51bmlxdWUoKS0+Y291bnQoKSk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8qKiBAdGVzdCAqLwoKICAgIHB1YmxpYyBmdW5jdGlvbiB0YWxrc19hcmVfb3JkZXJlZF9ieV90aGVfbW9zdF9yZWNlbnRfZXZlbnRfZGF0ZSgpCiAgICB7CiAgICAgICAgJHRhbGtBID0gWwogICAgICAgICAgICAndGl0bGUnID0+ICdUYWxrIEEnLAogICAgICAgICAgICAnZXZlbnRzJyA9PiBbCiAgICAgICAgICAgICAgICBbJ2V2ZW50JyA9PiAnZXZlbnRfYScsICdkYXRlJyA9PiAobmV3IERhdGVUaW1lKCctNSBkYXlzJykpLT5nZXRUaW1lc3RhbXAoKV0sCiAgICAgICAgICAgIF0sCiAgICAgICAgXTsKCiAgICAgICAgJHRhbGtCID0gWwogICAgICAgICAgICAndGl0bGUnID0+ICdUYWxrIEInLAogICAgICAgICAgICAnZXZlbnRzJyA9PiBbCiAgICAgICAgICAgICAgICBbJ2V2ZW50JyA9PiAnZXZlbnRfYScsICdkYXRlJyA9PiAobmV3IERhdGVUaW1lKCctMjAgZGF5cycpKS0+Z2V0VGltZXN0YW1wKCldLAogICAgICAgICAgICBdLAogICAgICAgIF07CgogICAgICAgICR0YWxrQyA9IFsKICAgICAgICAgICAgJ3RpdGxlJyA9PiAnVGFsayBDJywKICAgICAgICAgICAgJ2V2ZW50cycgPT4gWwogICAgICAgICAgICAgICAgWydldmVudCcgPT4gJ2V2ZW50X2EnLCAnZGF0ZScgPT4gKG5ldyBEYXRlVGltZSgnLTMgZGF5cycpKS0+Z2V0VGltZXN0YW1wKCldLAogICAgICAgICAgICAgICAgWydldmVudCcgPT4gJ2V2ZW50X2InLCAnZGF0ZScgPT4gKG5ldyBEYXRlVGltZSgnLTEwIGRheXMnKSktPmdldFRpbWVzdGFtcCgpXSwKICAgICAgICAgICAgXSwKICAgICAgICBdOwoKICAgICAgICAkdW5vcmRlcmVkVGFsa3MgPSBbJHRhbGtDLCAkdGFsa0EsICR0YWxrQl07CiAgICAgICAgJG9yZGVyZWRUYWxrcyA9ICR0aGlzLT5leHRlbnNpb24tPmdldFRhbGtzKCR1bm9yZGVyZWRUYWxrcyk7CgogICAgICAgICR0aGlzLT5hc3NlcnRFcXVhbHMoWyR0YWxrQywgJHRhbGtBLCAkdGFsa0JdLCAkb3JkZXJlZFRhbGtzLT50b0FycmF5KCkpOwogICAgfQoKICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIG9ubHlfcGFzdF90YWxrc19jYW5fYmVfcmV0cmlldmVkKCkKICAgIHsKICAgICAgICAkcGFzdFRhbGsgPSBbCiAgICAgICAgICAgICd0aXRsZScgPT4gJ1Bhc3QgdGFsaycsCiAgICAgICAgICAgICdldmVudHMnID0+IFsKICAgICAgICAgICAgICAgIFsnZGF0ZScgPT4gKG5ldyBEYXRlVGltZSgnLTEgZGF5JykpLT5nZXRUaW1lc3RhbXAoKV0sCiAgICAgICAgICAgIF0KICAgICAgICBdOwoKICAgICAgICAkZnV0dXJlVGFsayA9IFsKICAgICAgICAgICAgJ3RpdGxlJyA9PiAnRnV0dXJlIHRhbGsnLAogICAgICAgICAgICAnZXZlbnRzJyA9PiBbCiAgICAgICAgICAgICAgICBbJ2RhdGUnID0+IChuZXcgRGF0ZVRpbWUoJysxIGRheScpKS0+Z2V0VGltZXN0YW1wKCldLAogICAgICAgICAgICBdLAogICAgICAgIF07CgogICAgICAgICR0YWxrcyA9ICR0aGlzLT5leHRlbnNpb24tPmdldFRhbGtzKFskcGFzdFRhbGssICRmdXR1cmVUYWxrXSk7CiAgICAgICAgJGZpbHRlcmVkID0gJHRoaXMtPmV4dGVuc2lvbi0+ZmlsdGVyUGFzdCgkdGFsa3MpOwoKICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJGZpbHRlcmVkKTsKICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgkcGFzdFRhbGssICRmaWx0ZXJlZC0+Zmlyc3QoKSk7CiAgICB9CgogICAgLyoqIEB0ZXN0ICovCiAgICBwdWJsaWMgZnVuY3Rpb24gb25seV9jdXJyZW50X2FuZF9mdXR1cmVfdGFsa3NfY2FuX2JlX3JldHJpZXZlZCgpCiAgICB7CiAgICAgICAgJHBhc3RUYWxrID0gWwogICAgICAgICAgICAndGl0bGUnID0+ICdQYXN0IHRhbGsnLAogICAgICAgICAgICAnZXZlbnRzJyA9PiBbCiAgICAgICAgICAgICAgICBbJ2RhdGUnID0+IChuZXcgRGF0ZVRpbWUoJy0xIGRheScpKS0+Z2V0VGltZXN0YW1wKCldLAogICAgICAgICAgICBdCiAgICAgICAgXTsKCiAgICAgICAgJHRvZGF5VGFsayA9IFsKICAgICAgICAgICAgJ3RpdGxlJyA9PiAnQSB0YWxrIHRoYXQgaXQgaGFwcGVuaW5nIHRvZGF5JywKICAgICAgICAgICAgJ2V2ZW50cycgPT4gWwogICAgICAgICAgICAgICAgWydkYXRlJyA9PiAobmV3IERhdGVUaW1lKCdub3cnKSktPmdldFRpbWVzdGFtcCgpXSwKICAgICAgICAgICAgXSwKICAgICAgICBdOwoKICAgICAgICAkZnV0dXJlVGFsayA9IFsKICAgICAgICAgICAgJ3RpdGxlJyA9PiAnRnV0dXJlIHRhbGsnLAogICAgICAgICAgICAnZXZlbnRzJyA9PiBbCiAgICAgICAgICAgICAgICBbJ2RhdGUnID0+IChuZXcgRGF0ZVRpbWUoJysxIGRheScpKS0+Z2V0VGltZXN0YW1wKCldLAogICAgICAgICAgICBdLAogICAgICAgIF07CgogICAgICAgICR0YWxrcyA9ICR0aGlzLT5leHRlbnNpb24tPmdldFRhbGtzKFskcGFzdFRhbGssICR0b2RheVRhbGssICRmdXR1cmVUYWxrXSk7CiAgICAgICAgJGZpbHRlcmVkID0gJHRoaXMtPmV4dGVuc2lvbi0+ZmlsdGVyVXBjb21pbmcoJHRhbGtzKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydENvdW50KDIsICRmaWx0ZXJlZCk7CiAgICAgICAgJHRoaXMtPmFzc2VydFNhbWUoWyR0b2RheVRhbGssICRmdXR1cmVUYWxrXSwgJGZpbHRlcmVkLT50b0FycmF5KCkpOwogICAgfQoKICAgIC8qKiBAdGVzdCAqLwogICAgcHVibGljIGZ1bmN0aW9uIGlmX2FfdGFsa19pc19ib3RoX3VwY29taW5nX2FuZF9wYXN0X3RoZW5faXRfaXNfb25seV9zaG93bl9hc191cGNvbWluZygpCiAgICB7CiAgICAgICAgJHRhbGsgPSBbCiAgICAgICAgICAgICd0aXRsZScgPT4gJ0FuIHVwY29taW5nIHRhbGsgdGhhdCBoYXMgYmVlbiBnaXZlbiBiZWZvcmUnLAogICAgICAgICAgICAnZXZlbnRzJyA9PiBbCiAgICAgICAgICAgICAgICBbJ2RhdGUnID0+IChuZXcgRGF0ZVRpbWUoJy0xIHdlZWsnKSktPmdldFRpbWVzdGFtcCgpXSwKICAgICAgICAgICAgICAgIFsnZGF0ZScgPT4gKG5ldyBEYXRlVGltZSgnKzEgd2VlaycpKS0+Z2V0VGltZXN0YW1wKCldLAogICAgICAgICAgICBdLAogICAgICAgIF07CgogICAgICAgICR0YWxrcyA9ICR0aGlzLT5leHRlbnNpb24tPmdldFRhbGtzKFskdGFsa10pOwoK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHt7IHRhbGtzfGxlbmd0aCB9fQogICAge3sgdGFsa3N8ZXZlbnRzfGxlbmd0aCB9fQo=</text>
+      </register>
       <register name=":" type="4">
-        <text>112</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1413,6 +1415,7 @@
         <entry>Kei</entry>
       </history-search>
       <history-cmd>
+        <entry>314</entry>
         <entry>377</entry>
         <entry>x</entry>
         <entry>69</entry>
@@ -1432,7 +1435,6 @@
         <entry>7</entry>
         <entry>~</entry>
         <entry>w</entry>
-        <entry>112</entry>
       </history-cmd>
       <history-expr />
       <history-input />
