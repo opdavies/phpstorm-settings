@@ -99,11 +99,6 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/tdd_blog/tdd_blog.info.yml" timestamp="1536753493471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/src/Service/ImporterInterface.php" timestamp="1558727914888">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/config/install/odl_leader_rewards.settings.yml" timestamp="1536832366660">
         <mark key="[" line="0" column="0" />
       </file>
@@ -187,11 +182,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_clone_event/odl_clone_event.links.task.yml" timestamp="1523019780503">
         <mark key="[" line="4" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_sessions/real-state-of-drupal.md" timestamp="1558564442066">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Code/atom/donuts/sectors-donut/docroot/sites/default/settings.php" timestamp="1534420147141">
         <mark key="[" line="86" column="4" />
@@ -333,11 +323,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/src/Kernel/OdlCommerceEventKernelTestBase.php" timestamp="1523880943864">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/dtc_import.services.yml" timestamp="1558733185630">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/src/Member/MemberRoleType.php" timestamp="1526912493247">
         <mark key="[" line="8" column="0" />
@@ -573,6 +558,11 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/config/local/search_api.index.search.yml" timestamp="1559817121230">
+        <mark key="[" line="111" column="10" />
+        <mark key="]" line="111" column="10" />
+        <mark key="." line="111" column="10" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/sites/default/settings.outdoorlads.php" timestamp="1530021739812">
         <mark key="[" line="10" column="24" />
       </file>
@@ -729,11 +719,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/modules/filter/tests/src/Functional/FilterDefaultFormatTest.php" timestamp="1522241411602">
         <mark key="[" line="34" column="44" />
-      </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/default/themes/tinhat/tailwind.js" timestamp="1558638935948">
-        <mark key="[" line="98" column="23" />
-        <mark key="]" line="98" column="23" />
-        <mark key="." line="98" column="23" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_pay_as_you_go_member_price.yml" timestamp="1529505209283">
         <mark key="[" line="5" column="21" />
@@ -905,11 +890,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/EntityStorageInterface.php" timestamp="1538643397068">
         <mark key="[" line="54" column="14" />
-      </file>
-      <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/Service/CsvImporter.php" timestamp="1558725846426">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
       </file>
       <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1559816425872">
         <mark key="[" line="25" column="11" />
@@ -1118,6 +1098,11 @@
       </file>
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_order_export/src/Exception/EmptyOrderException.php" timestamp="1541364401718">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/config/sync/search_api.index.search.yml" timestamp="1559817109032">
+        <mark key="[" line="111" column="10" />
+        <mark key="]" line="111" column="10" />
+        <mark key="." line="111" column="10" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Utility/Token.php" timestamp="1536161992274">
         <mark key="[" line="184" column="21" />
@@ -1333,11 +1318,11 @@
       <jump line="820" column="0" filename="$USER_HOME$/Code/clients/ses-astra/docroot/sites/default/settings.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>text</text>
       </register>
       <register name="-" type="4">
-        <text>documents</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>Kei</text>
@@ -1392,7 +1377,7 @@
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0Q291bnQoMSwgJHRoaXMtPmV4dGVuc2lvbi0+ZmlsdGVyVXBjb21pbmcoJHRhbGtzKSk7CiAgICAgICAgJHRoaXMtPmFzc2VydEVtcHR5KCR0aGlzLT5leHRlbnNpb24tPmZpbHRlclBhc3QoJHRhbGtzKSk7CiAgICB9CgogICAgLyoqIEB0ZXN0ICovCiAgICBwdWJsaWMgZnVuY3Rpb24gZ2V0X2V2ZW50c19mcm9tX3RhbGtzKCkKICAgIHsKICAgICAgICAkdGFsa0EgPSBbCiAgICAgICAgICAgICd0aXRsZScgPT4gJ1RhbGsgQScsCiAgICAgICAgICAgICdldmVudHMnID0+IFsKICAgICAgICAgICAgICAgIFsnZXZlbnQnID0+ICdldmVudF9hJywgJ2RhdGUnID0+IChuZXcgRGF0ZVRpbWUoJy0xIGRheXMnKSktPmdldFRpbWVzdGFtcCgpXSwKICAgICAgICAgICAgICAgIFsnZXZlbnQnID0+ICdldmVudF9iJywgJ2RhdGUnID0+IChuZXcgRGF0ZVRpbWUoJysxIGRheXMnKSktPmdldFRpbWVzdGFtcCgpXSwKICAgICAgICAgICAgXSwKICAgICAgICBdOwoKICAgICAgICAkdGFsa0IgPSBbCiAgICAgICAgICAgICd0aXRsZScgPT4gJ1RhbGsgQicsCiAgICAgICAgICAgICdldmVudHMnID0+IFsKICAgICAgICAgICAgICAgIFsnZXZlbnQnID0+ICdldmVudF9hJywgJ2RhdGUnID0+IChuZXcgRGF0ZVRpbWUoJy0zIGRheXMnKSktPmdldFRpbWVzdGFtcCgpXSwKICAgICAgICAgICAgXSwKICAgICAgICBdOwoKICAgICAgICAkdGFsa3MgPSBjb2xsZWN0KFskdGFsa0EsICR0YWxrQl0pOwoKICAgICAgICB0YXAoJHRoaXMtPmV4dGVuc2lvbi0+Z2V0RXZlbnRzKCR0YWxrcyksIGZ1bmN0aW9uIChDb2xsZWN0aW9uICRldmVudHMpIHsKICAgICAgICAgICAgJHRoaXMtPmFzc2VydENvdW50KDMsICRldmVudHMpOwoKICAgICAgICAgICAgJHRoaXMtPmFzc2VydFNhbWUoCiAgICAgICAgICAgICAgICBbJ2V2ZW50X2EnLCAnZXZlbnRfYicsICdldmVudF9hJ10sCiAgICAgICAgICAgICAgICAkZXZlbnRzLT5wbHVjaygnZXZlbnQnKS0+dG9BcnJheSgpCiAgICAgICAgICAgICk7CgogICAgICAgICAgICAkdGhpcy0+YXNzZXJ0U2FtZSgzLCAkZXZlbnRzLT5wbHVjaygnZGF0ZScpLT51bmlxdWUoKS0+Y291bnQoKSk7CiAgICAgICAgfSk7CiAgICB9Cn0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>112</text>
       </register>
     </registers>
     <search>
@@ -1428,7 +1413,6 @@
         <entry>Kei</entry>
       </history-search>
       <history-cmd>
-        <entry>314</entry>
         <entry>377</entry>
         <entry>x</entry>
         <entry>69</entry>
@@ -1448,6 +1432,7 @@
         <entry>7</entry>
         <entry>~</entry>
         <entry>w</entry>
+        <entry>112</entry>
       </history-cmd>
       <history-expr />
       <history-input />
