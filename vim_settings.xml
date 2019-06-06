@@ -911,8 +911,8 @@
         <mark key="]" line="4" column="25" />
         <mark key="." line="4" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1559811988651">
-        <mark key="[" line="25" column="18" />
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1559814876259">
+        <mark key="[" line="25" column="19" />
         <mark key="]" line="25" column="19" />
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
