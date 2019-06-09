@@ -96,6 +96,9 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/tdd_blog/tdd_blog.info.yml" timestamp="1536753493471">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/os/rebuilding-acquia/src/services/applications/ApplicationRepository.js" timestamp="1560068168673">
+        <mark key="[" line="5" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/os/rebuilding-acquia/src/components/Application/PhpVersion.vue" timestamp="1560046070787">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="15" column="12" />
@@ -1044,6 +1047,9 @@
       </file>
       <file name="$USER_HOME$/Code/tinhat/repo/play.php" timestamp="1540581552847">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/os/rebuilding-acquia/src/views/Environments.vue" timestamp="1560067951150">
+        <mark key="[" line="101" column="74" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/scripts/get-attendee-emails.php" timestamp="1524499191982">
         <mark key="[" line="0" column="0" />
