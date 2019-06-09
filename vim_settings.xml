@@ -96,6 +96,12 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/tdd_blog/tdd_blog.info.yml" timestamp="1536753493471">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/os/rebuilding-acquia/src/components/Application/PhpVersion.vue" timestamp="1560046070787">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/config/install/odl_leader_rewards.settings.yml" timestamp="1536832366660">
         <mark key="[" line="0" column="0" />
       </file>
@@ -459,6 +465,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/odl_events.services.yml" timestamp="1539769711133">
         <mark key="[" line="22" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/os/rebuilding-acquia/src/services/applications/Application.js" timestamp="1560046090556">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="30" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/app/config/sculpin_site.yml" timestamp="1558564438162">
         <mark key="[" line="51" column="19" />
@@ -1329,10 +1341,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>views_view</text>
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text>views_view</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>Kei</text>
