@@ -96,10 +96,11 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/tdd_blog/tdd_blog.info.yml" timestamp="1536753493471">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/src/Service/ImporterInterface.php" timestamp="1558727914888">
-        <mark key="[" line="6" column="10" />
-        <mark key="]" line="6" column="10" />
-        <mark key="." line="6" column="10" />
+      <file name="$USER_HOME$/Code/os/rebuilding-acquia/src/components/Application/PhpVersion.vue" timestamp="1560046070787">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="15" column="12" />
+        <mark key="^" line="15" column="12" />
+        <mark key="." line="15" column="12" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/config/install/odl_leader_rewards.settings.yml" timestamp="1536832366660">
         <mark key="[" line="0" column="0" />
@@ -184,11 +185,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_clone_event/odl_clone_event.links.task.yml" timestamp="1523019780503">
         <mark key="[" line="4" column="12" />
-      </file>
-      <file name="$USER_HOME$/Code/dcb-2019-static/source/_sessions/real-state-of-drupal.md" timestamp="1558564442066">
-        <mark key="[" line="2" column="7" />
-        <mark key="]" line="3" column="11" />
-        <mark key="." line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Code/atom/donuts/sectors-donut/docroot/sites/default/settings.php" timestamp="1534420147141">
         <mark key="[" line="86" column="4" />
@@ -328,11 +324,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/src/Kernel/OdlCommerceEventKernelTestBase.php" timestamp="1523880943864">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/dtc_import.services.yml" timestamp="1558733185630">
-        <mark key="[" line="6" column="41" />
-        <mark key="]" line="6" column="41" />
-        <mark key="." line="6" column="41" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/src/Member/MemberRoleType.php" timestamp="1526912493247">
         <mark key="[" line="8" column="0" />
       </file>
@@ -341,6 +332,9 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/commerce/modules/price/src/TwigExtension/PriceTwigExtension.php" timestamp="1535624441352">
         <mark key="[" line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_gtm_datalayer/src/DataLayerInterface.php" timestamp="1560039746154">
+        <mark key="[" line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/commerce/modules/order/tests/src/Kernel/Entity/OrderTest.php" timestamp="1523462932087">
         <mark key="[" line="139" column="12" />
@@ -399,12 +393,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/private-message-thread/private-message-thread--inbox.html.twig" timestamp="1529414080529">
         <mark key="[" line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/talks/blueconf/drupal/.docksal/commands/init" timestamp="1559762676115">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/app/config/sculpin_kernel.yml" timestamp="1558393995362">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="28" />
@@ -419,6 +407,9 @@
       </file>
       <file name="$USER_HOME$/Code/bracknell/docroot/sites/all/modules/custom/localgov/localgov_base_paragraphs/includes/localgov_base_paragraphs.user_permission.inc" timestamp="1539595270182">
         <mark key="[" line="29" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_gtm_datalayer/ti_gtm_datalayer.module" timestamp="1560039199517">
+        <mark key="[" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_profile/tests/modules/odl_user_profile_test/config/install/field.field.user.user.field_leader_type.yml" timestamp="1522760503828">
         <mark key="[" line="0" column="0" />
@@ -437,6 +428,9 @@
       </file>
       <file name="$USER_HOME$/Code/drupal7/sites/all/modules/override_node_options/override_node_options.module" timestamp="1541425541126">
         <mark key="[" line="210" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/mymobilecover/themes/custom/mymobilecover/mymobilecover.info" timestamp="1560040451813">
+        <mark key="[" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Sponsors/tests/SponsorsTest.php" timestamp="1558388377598">
         <mark key="[" line="51" column="25" />
@@ -459,11 +453,24 @@
         <mark key="^" line="5" column="1" />
         <mark key="." line="5" column="1" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_deploy/ti_deploy.install" timestamp="1560042461676">
+        <mark key="'" line="108" column="0" />
+        <mark key="[" line="193" column="48" />
+        <mark key="]" line="193" column="48" />
+        <mark key="^" line="193" column="49" />
+        <mark key="." line="193" column="48" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/patches/private_message/remove-fieldset-use-checkboxes.patch" timestamp="1526030420086">
         <mark key="[" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/odl_events.services.yml" timestamp="1539769711133">
         <mark key="[" line="22" column="29" />
+      </file>
+      <file name="$USER_HOME$/Code/os/rebuilding-acquia/src/services/applications/Application.js" timestamp="1560046090556">
+        <mark key="[" line="12" column="1" />
+        <mark key="]" line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+        <mark key="." line="7" column="30" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/app/config/sculpin_site.yml" timestamp="1558564438162">
         <mark key="[" line="51" column="19" />
@@ -600,6 +607,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_export/odl_user_export.services.yml" timestamp="1538652616621">
         <mark key="[" line="7" column="46" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/themes/custom/tinhat/layouts/basic/basic.layout.inc" timestamp="1560040626970">
+        <mark key="[" line="15" column="33" />
+        <mark key="]" line="15" column="33" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="15" column="33" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/Event/EventArchivedEvent.php" timestamp="1536233000922">
         <mark key="[" line="8" column="59" />
       </file>
@@ -722,11 +735,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/modules/filter/tests/src/Functional/FilterDefaultFormatTest.php" timestamp="1522241411602">
         <mark key="[" line="34" column="44" />
-      </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/default/themes/tinhat/tailwind.js" timestamp="1558638935948">
-        <mark key="[" line="98" column="23" />
-        <mark key="]" line="98" column="23" />
-        <mark key="." line="98" column="23" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_pay_as_you_go_member_price.yml" timestamp="1529505209283">
         <mark key="[" line="5" column="21" />
@@ -899,11 +907,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/EntityStorageInterface.php" timestamp="1538643397068">
         <mark key="[" line="54" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/Service/CsvImporter.php" timestamp="1558725846426">
-        <mark key="[" line="4" column="25" />
-        <mark key="]" line="4" column="25" />
-        <mark key="." line="4" column="25" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
       </file>
@@ -1021,6 +1024,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/mymobilecover/themes/custom/mymobilecover/layouts/basic/basic-layout.tpl.php" timestamp="1560041859406">
+        <mark key="[" line="101" column="41" />
+        <mark key="]" line="101" column="31" />
+        <mark key="^" line="101" column="31" />
+        <mark key="." line="101" column="31" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/composer.json" timestamp="1558562783437">
         <mark key="[" line="35" column="40" />
       </file>
@@ -1036,6 +1045,9 @@
       <file name="$USER_HOME$/Code/tinhat/repo/play.php" timestamp="1540581552847">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/os/rebuilding-acquia/src/views/Environments.vue" timestamp="1560067951150">
+        <mark key="[" line="101" column="74" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/scripts/get-attendee-emails.php" timestamp="1524499191982">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1047,6 +1059,11 @@
       </file>
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/drupaltest/tests/src/Controllers/ExampleController.php" timestamp="1536752046184">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/features/ti_commerce/src/EntityWrapper/OrderWrapper.php" timestamp="1560038970606">
+        <mark key="[" line="106" column="2" />
+        <mark key="]" line="106" column="2" />
+        <mark key="." line="106" column="2" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_event_number_of_people.yml" timestamp="1523455655197">
         <mark key="[" line="5" column="0" />
@@ -1090,6 +1107,9 @@
       <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/4-keith-jay.md" timestamp="1558605608082">
         <mark key="[" line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/mymobilecover/themes/custom/mymobilecover/templates/region--footer.tpl.php" timestamp="1560041400445">
+        <mark key="[" line="31" column="54" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/.docksal/commands/build-theme" timestamp="1533549203499">
         <mark key="[" line="10" column="37" />
       </file>
@@ -1101,6 +1121,9 @@
       </file>
       <file name="$USER_HOME$/Code/atom/danu/.gitignore" timestamp="1534426700455">
         <mark key="[" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/themes/custom/tinhat/layouts/basic/basic-layout.tpl.php" timestamp="1560041174781">
+        <mark key="[" line="124" column="11" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/Service/LeaderRewards/LeaderRewardCalculator.php" timestamp="1535971453686">
         <mark key="[" line="4" column="17" />
@@ -1126,6 +1149,7 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/clients/serenbooks/repo/web/profiles/commerce_kickstart/modules/contrib/commerce_paypal/commerce_paypal.module" timestamp="1560077607497" />
       <file name="$USER_HOME$/Code/dcb-2019-static/netlify.toml" timestamp="1558419872315">
         <mark key="[" line="1" column="13" />
       </file>
@@ -1218,8 +1242,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
-      <jump line="53" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="42" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="31" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="14" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
@@ -1318,13 +1340,15 @@
       <jump line="47" column="20" filename="$USER_HOME$/Code/dcb-2019-static/source/index.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/dcb-2019-static/source/_speakers/5-rick-donohoe.md" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/themes/custom/tinhat/template.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_deploy/ti_deploy.install" />
+      <jump line="108" column="0" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_deploy/ti_deploy.install" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>11dad4c2-baa8-4fb2-97c6-12e1ce925806</text>
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text>11dad4c2-baa8-4fb2-97c6-12e1ce925806</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>Kei</text>
