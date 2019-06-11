@@ -399,6 +399,12 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_quote_angular/includes/your_quote.inc" timestamp="1560295448035">
+        <mark key="[" line="12" column="40" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_event_leader.yml" timestamp="1524854906476">
         <mark key="[" line="6" column="21" />
       </file>
@@ -438,6 +444,7 @@
         <mark key="^" line="51" column="39" />
         <mark key="." line="51" column="25" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_quote_angular/ti_quote_angular.module" timestamp="1560295300563" />
       <file name="$USER_HOME$/Code/bracknell/docroot/sites/all/themes/custom/bracknell_theme_base/scss/styles.scss" timestamp="1539274782301">
         <mark key="[" line="82" column="0" />
       </file>
@@ -790,6 +797,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/src/Form/MessageAttendeesForm.php" timestamp="1528106984396">
         <mark key="[" line="134" column="67" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_quote_angular/lib/Drupal/ti_quote_angular/Service/DeviceDataExtractor.php" timestamp="1560294543046">
+        <mark key="[" line="19" column="59" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_event_cancelled.yml" timestamp="1536914453487">
         <mark key="[" line="5" column="21" />
       </file>
@@ -810,9 +820,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_admin/odl_base/odl_base.info.yml" timestamp="1538049430075">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/themes/custom/tinhat/template.php" timestamp="1559057010836">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/scripts/waitlist-report-test.php" timestamp="1526289846384">
         <mark key="[" line="0" column="0" />
@@ -1033,6 +1040,9 @@
       <file name="$USER_HOME$/Code/dcb-2019-static/composer.json" timestamp="1558562783437">
         <mark key="[" line="35" column="40" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/devicelife/modules/custom/ti_quote/your_quote.inc" timestamp="1560295629957">
+        <mark key="[" line="515" column="61" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/modules/odl_private_message_archive/src/Entity/Access/ArchivePrivateMessageThreadAccessControlHandler.php" timestamp="1529322563730">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1110,6 +1120,12 @@
       <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/mymobilecover/themes/custom/mymobilecover/templates/region--footer.tpl.php" timestamp="1560041400445">
         <mark key="[" line="31" column="54" />
       </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_gtm_datalayer/src/DataLayer.php" timestamp="1560294825917">
+        <mark key="[" line="90" column="35" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/.docksal/commands/build-theme" timestamp="1533549203499">
         <mark key="[" line="10" column="37" />
       </file>
@@ -1149,7 +1165,6 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/clients/serenbooks/repo/web/profiles/commerce_kickstart/modules/contrib/commerce_paypal/commerce_paypal.module" timestamp="1560078267123" />
       <file name="$USER_HOME$/Code/dcb-2019-static/netlify.toml" timestamp="1558419872315">
         <mark key="[" line="1" column="13" />
       </file>
@@ -1176,6 +1191,12 @@
       </file>
       <file name="$USER_HOME$/Code/os/php-helpers/src/helpers.php" timestamp="1558434892688">
         <mark key="[" line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/post-test.html" timestamp="1560293957763">
+        <mark key="[" line="115" column="64" />
+        <mark key="]" line="115" column="64" />
+        <mark key="^" line="115" column="64" />
+        <mark key="." line="115" column="64" />
       </file>
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/core/lib/Drupal/Core/Entity/Sql/SqlContentEntityStorage.php" timestamp="1534777680687">
         <mark key="[" line="818" column="0" />
