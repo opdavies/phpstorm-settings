@@ -1039,7 +1039,8 @@
       <file name="$USER_HOME$/Code/dcb-2019-static/composer.json" timestamp="1558562783437">
         <mark key="[" line="35" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/devicelife/modules/custom/ti_quote/your_quote.inc" timestamp="1560295629957">
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/devicelife/modules/custom/ti_quote/your_quote.inc" timestamp="1560415238303">
+        <mark key="'" line="515" column="31" />
         <mark key="[" line="515" column="61" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/modules/odl_private_message_archive/src/Entity/Access/ArchivePrivateMessageThreadAccessControlHandler.php" timestamp="1529322563730">
@@ -1079,6 +1080,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/.docksal/drupal/core/phpunit.xml" timestamp="1534156012904">
         <mark key="[" line="7" column="28" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_quote_angular/lib/Drupal/ti_quote_angular/Service/SessionDataManager.php" timestamp="1560415173203">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_profile/src/Plugin/views/access/MyProfilePage.php" timestamp="1539946979823">
         <mark key="[" line="70" column="53" />
@@ -1262,7 +1269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="31" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="14" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
@@ -1362,6 +1368,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/themes/custom/tinhat/template.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_deploy/ti_deploy.install" />
       <jump line="108" column="0" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_deploy/ti_deploy.install" />
+      <jump line="515" column="31" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/devicelife/modules/custom/ti_quote/your_quote.inc" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
