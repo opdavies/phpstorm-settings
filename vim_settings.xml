@@ -399,11 +399,11 @@
         <mark key="." line="4" column="28" />
         <mark key="^" line="4" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_quote_angular/includes/your_quote.inc" timestamp="1560295448035">
-        <mark key="[" line="12" column="40" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_quote_angular/includes/your_quote.inc" timestamp="1560414477066">
+        <mark key="[" line="153" column="15" />
+        <mark key="]" line="153" column="14" />
+        <mark key="^" line="153" column="14" />
+        <mark key="." line="153" column="14" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_event_leader.yml" timestamp="1524854906476">
         <mark key="[" line="6" column="21" />
@@ -444,7 +444,6 @@
         <mark key="^" line="51" column="39" />
         <mark key="." line="51" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_quote_angular/ti_quote_angular.module" timestamp="1560295300563" />
       <file name="$USER_HOME$/Code/bracknell/docroot/sites/all/themes/custom/bracknell_theme_base/scss/styles.scss" timestamp="1539274782301">
         <mark key="[" line="82" column="0" />
       </file>
@@ -1366,10 +1365,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>map</text>
+        <text>12345</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>12345</text>
       </register>
       <register name="/" type="4">
         <text>Kei</text>
