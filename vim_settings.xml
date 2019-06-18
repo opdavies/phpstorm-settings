@@ -916,12 +916,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/EntityStorageInterface.php" timestamp="1538643397068">
         <mark key="[" line="54" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1560815585206">
-        <mark key="[" line="78" column="66" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="87" column="0" />
-        <mark key="." line="87" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
       </file>
