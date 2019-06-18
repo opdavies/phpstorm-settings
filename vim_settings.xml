@@ -78,6 +78,9 @@
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/themes/donut2/donut2.libraries.yml" timestamp="1534953548753">
         <mark key="[" line="5" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Plugin/Block/ChannelListing.php" timestamp="1560814378995">
+        <mark key="[" line="101" column="27" />
+      </file>
       <file name="$USER_HOME$/Code/bracknell/docroot/sites/all/themes/custom/bracknell_theme_base/templates/page.tpl.php" timestamp="1538996843107">
         <mark key="[" line="76" column="121" />
       </file>
@@ -763,6 +766,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_full_member_price.yml" timestamp="1529503273455">
         <mark key="[" line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Plugin/Block/PackageChannelListing.php" timestamp="1560814633425">
+        <mark key="[" line="113" column="46" />
+        <mark key="]" line="113" column="45" />
+        <mark key="^" line="113" column="45" />
+        <mark key="." line="113" column="45" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/config/install/odl_leader_rewards.settings.yml" timestamp="1536832550555">
         <mark key="[" line="2" column="0" />
       </file>
@@ -906,6 +915,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/EntityStorageInterface.php" timestamp="1538643397068">
         <mark key="[" line="54" column="14" />
+      </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1560815585206">
+        <mark key="[" line="78" column="66" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="87" column="0" />
+        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
@@ -1149,7 +1164,6 @@
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/clients/serenbooks/repo/web/profiles/commerce_kickstart/modules/contrib/commerce_paypal/commerce_paypal.module" timestamp="1560077607497" />
       <file name="$USER_HOME$/Code/dcb-2019-static/netlify.toml" timestamp="1558419872315">
         <mark key="[" line="1" column="13" />
       </file>
