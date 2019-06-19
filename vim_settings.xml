@@ -6,6 +6,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_event_end_date.yml" timestamp="1535663248800">
         <mark key="[" line="6" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_case_study/src/Plugin/Block/ServicesBlock.php" timestamp="1560935031150">
+        <mark key="[" line="25" column="73" />
+        <mark key="]" line="25" column="73" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="25" column="73" />
+      </file>
       <file name="/a.dummy" timestamp="1558731500927">
         <mark key="[" line="0" column="0" />
       </file>
@@ -119,6 +125,9 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/fields/field.html.twig" timestamp="1526298423140">
         <mark key="[" line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_case_study/inviqa_case_study.info.yml" timestamp="1560933561122">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.taxonomy_term.field_full_member_price.yml" timestamp="1529504333762">
         <mark key="[" line="5" column="21" />
@@ -407,7 +416,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/src/Plugin/Action/OdlCommerceEventCancelAction.php" timestamp="1526048608095">
         <mark key="[" line="126" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1560550075389" />
       <file name="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/src/TwigExtension/EventsExtension.php" timestamp="1558339549715">
         <mark key="[" line="46" column="4" />
       </file>
@@ -867,6 +875,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/private-message-thread/private-message-thread--inbox.html.twig" timestamp="1529414080529">
         <mark key="[" line="23" column="51" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" timestamp="1560935002759">
+        <mark key="[" line="130" column="47" />
+        <mark key="]" line="130" column="40" />
+        <mark key="^" line="130" column="40" />
+        <mark key="." line="130" column="40" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/app/config/sculpin_kernel.yml" timestamp="1558393995362">
         <mark key="[" line="4" column="28" />
         <mark key="]" line="4" column="28" />
@@ -1297,6 +1311,7 @@
       <file name="$USER_HOME$/Code/atom/danu/.gitignore" timestamp="1534426700455">
         <mark key="[" line="1" column="16" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/core.services.yml" timestamp="1560933982440" />
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_order_export/src/Exception/EmptyOrderException.php" timestamp="1541364401718">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1366,7 +1381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="31" column="53" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/tests/src/Kernel/RoleMailChangerTest.php" />
       <jump line="34" column="12" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/Entity.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/Entity.php" />
@@ -1466,13 +1480,14 @@
       <jump line="28" column="21" filename="$USER_HOME$/Code/php-south-wales/.env.example" />
       <jump line="6" column="0" filename="$USER_HOME$/Code/clients/tinhat/docroot/post-test.html" />
       <jump line="66" column="15" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_deploy/ti_deploy.install" />
+      <jump line="18" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>product_id</text>
+        <text>string</text>
       </register>
       <register name="-" type="4">
-        <text>product_id</text>
+        <text>string</text>
       </register>
       <register name="/" type="4">
         <text>Kei</text>
