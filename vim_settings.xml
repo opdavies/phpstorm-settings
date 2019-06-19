@@ -198,11 +198,11 @@
       <file name="$USER_HOME$/Code/bracknell/docroot/modules/node/node.module" timestamp="1539181730929">
         <mark key="[" line="2755" column="35" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/composer.json" timestamp="1560941712018">
-        <mark key="[" line="85" column="16" />
-        <mark key="]" line="79" column="9" />
-        <mark key="^" line="79" column="9" />
-        <mark key="." line="79" column="9" />
+      <file name="$USER_HOME$/Code/inviqa2019/composer.json" timestamp="1560950242426">
+        <mark key="[" line="77" column="43" />
+        <mark key="]" line="101" column="7" />
+        <mark key="^" line="101" column="7" />
+        <mark key="." line="101" column="7" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/private_message_queue/tests/src/Kernel/PrivateMessageQueueTest.php" timestamp="1528803009924">
         <mark key="[" line="59" column="20" />
@@ -780,9 +780,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/config/sync/config_ignore.settings.yml" timestamp="1525788924264">
         <mark key="[" line="1" column="45" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/service/inviqa_service.features.yml" timestamp="1560948040708">
-        <mark key="[" line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/odl_events.info.yml" timestamp="1536072312952">
         <mark key="[" line="6" column="35" />
       </file>
@@ -991,12 +988,12 @@
         <mark key="[" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/core/core.services.yml" timestamp="1560933982440" />
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/tests/Kernel/Service/ServiceCollectorTest.php" timestamp="1560948262087">
-        <mark key="'" line="19" column="11" />
-        <mark key="[" line="74" column="23" />
-        <mark key="]" line="19" column="11" />
-        <mark key="^" line="19" column="11" />
-        <mark key="." line="19" column="11" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/tests/Kernel/Service/ServiceCollectorTest.php" timestamp="1560949605806">
+        <mark key="'" line="104" column="0" />
+        <mark key="[" line="110" column="5" />
+        <mark key="]" line="109" column="51" />
+        <mark key="^" line="109" column="51" />
+        <mark key="." line="109" column="51" />
       </file>
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_order_export/src/Exception/EmptyOrderException.php" timestamp="1541364401718">
         <mark key="[" line="0" column="0" />
@@ -1036,7 +1033,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/Entity.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/drupal87/core/lib/Drupal/Core/Entity/Entity.php" />
       <jump line="39" column="4" filename="$USER_HOME$/Code/drupal87/core/tests/Drupal/Tests/Core/Entity/EntityUnitTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/drupal87/core/tests/Drupal/Tests/Core/Entity/EntityUnitTest.php" />
@@ -1136,16 +1132,17 @@
       <jump line="18" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" />
       <jump line="90" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" />
       <jump line="19" column="11" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/tests/Kernel/Service/ServiceCollectorTest.php" />
+      <jump line="104" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/tests/Kernel/Service/ServiceCollectorTest.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Plain text 1</text>
+        <text>tGetAllServices</text>
       </register>
       <register name="-" type="4">
-        <text>Plain text 1</text>
+        <text>tGetAllServices</text>
       </register>
       <register name="/" type="4">
-        <text>Kei</text>
+        <text>dump</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7JSBpbmNsdWRlICd0YWxrcy91cGNvbWluZycgd2l0aCB7CiAgICAgICAgICAgIHRhbGtzOiBnZXRUYWxrcyhwYWdlLnRhbGtzfG1lcmdlKGRhdGEudGFsa3MpKXx1cGNvbWluZywKICAgICAgICB9ICV9CgpuCg==</text>
@@ -1201,9 +1198,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Kei</last-search>
+      <last-search>dump</last-search>
       <last-offset />
-      <last-pattern>Kei</last-pattern>
+      <last-pattern>dump</last-pattern>
       <last-replace>events</last-replace>
       <last-substitute>label</last-substitute>
       <last-dir>1</last-dir>
@@ -1211,7 +1208,6 @@
     </search>
     <history>
       <history-search>
-        <entry>red</entry>
         <entry>20</entry>
         <entry>Add</entry>
         <entry>AddForm</entry>
@@ -1231,6 +1227,7 @@
         <entry>time</entry>
         <entry>label</entry>
         <entry>Kei</entry>
+        <entry>dump</entry>
       </history-search>
       <history-cmd>
         <entry>314</entry>
