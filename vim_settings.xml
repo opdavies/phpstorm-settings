@@ -872,8 +872,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/private-message-thread/private-message-thread--inbox.html.twig" timestamp="1529414080529">
         <mark key="[" line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" timestamp="1560935002759">
-        <mark key="[" line="130" column="47" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" timestamp="1560940081247">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="144" column="2" />
         <mark key="]" line="130" column="40" />
         <mark key="^" line="130" column="40" />
         <mark key="." line="130" column="40" />
@@ -1378,7 +1379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="53" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/tests/src/Kernel/RoleMailChangerTest.php" />
       <jump line="34" column="12" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/Entity.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Entity/Entity.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/drupal87/core/lib/Drupal/Core/Entity/Entity.php" />
@@ -1478,6 +1478,7 @@
       <jump line="6" column="0" filename="$USER_HOME$/Code/clients/tinhat/docroot/post-test.html" />
       <jump line="66" column="15" filename="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_deploy/ti_deploy.install" />
       <jump line="18" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" />
+      <jump line="90" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
