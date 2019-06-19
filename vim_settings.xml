@@ -200,9 +200,9 @@
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/composer.json" timestamp="1560951175596">
         <mark key="[" line="32" column="19" />
-        <mark key="]" line="102" column="7" />
-        <mark key="^" line="102" column="7" />
-        <mark key="." line="102" column="7" />
+        <mark key="]" line="103" column="7" />
+        <mark key="^" line="103" column="7" />
+        <mark key="." line="103" column="7" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/private_message_queue/tests/src/Kernel/PrivateMessageQueueTest.php" timestamp="1528803009924">
         <mark key="[" line="59" column="20" />
