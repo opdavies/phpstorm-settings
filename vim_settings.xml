@@ -102,6 +102,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_events_calendar/odl_events_calendar.module" timestamp="1533308887480">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/case_study.services.yml" timestamp="1560942113991">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/atom/donuts/sectors-donut/docroot/sites/default/settings.php" timestamp="1534420147141">
         <mark key="[" line="86" column="4" />
       </file>
@@ -273,7 +276,12 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/composer.json" timestamp="1560939022934" />
+      <file name="$USER_HOME$/Code/inviqa2019/composer.json" timestamp="1560941712018">
+        <mark key="[" line="85" column="16" />
+        <mark key="]" line="79" column="9" />
+        <mark key="^" line="79" column="9" />
+        <mark key="." line="79" column="9" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Sponsors/src/Resources/config/services.yml" timestamp="1558384735752">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="39" />
@@ -310,7 +318,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/modules/comment/comment.permissions.yml" timestamp="1522753394983">
         <mark key="[" line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1560468560758">
+      <file name="/Dummy.txt" timestamp="1560941578432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.field.commerce_order_item.odl_order_item_type.field_cancelled.yml" timestamp="1523610254420">
@@ -387,6 +395,12 @@
         <mark key="]" line="20" column="68" />
         <mark key="." line="20" column="68" />
         <mark key="^" line="26" column="25" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Service/ServiceCollector.php" timestamp="1560944161315">
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="11" column="5" />
+        <mark key="^" line="11" column="5" />
+        <mark key="." line="11" column="5" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/views/views-view--their-bookmarked-events.html.twig" timestamp="1533724850295">
         <mark key="[" line="52" column="32" />
@@ -580,6 +594,9 @@
       <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/sessions.csv" timestamp="1558731488444">
         <mark key="[" line="5" column="35" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/layout_builder/src/Plugin/Block/FieldBlock.php" timestamp="1560942615909">
+        <mark key="[" line="37" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/4-keith-jay.md" timestamp="1558605608082">
         <mark key="[" line="2" column="25" />
       </file>
@@ -736,6 +753,7 @@
         <mark key="^" line="19" column="4" />
         <mark key="." line="19" column="4" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/views/src/Plugin/views/field/RenderedEntity.php" timestamp="1560943435833" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/src/Kernel/PublishedDateTest.php" timestamp="1531130445500">
         <mark key="[" line="95" column="12" />
       </file>
@@ -891,6 +909,9 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/drupaltest/src/Service/Calculator.php" timestamp="1536753154786">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/case_study.info.yml" timestamp="1560940979600">
+        <mark key="[" line="1" column="19" />
+      </file>
       <file name="$USER_HOME$/Code/oliverdavies.uk-d8/web/modules/custom/opdavies_blog/src/Trait/ArticleEventTrait.php" timestamp="1534424498453">
         <mark key="[" line="2" column="34" />
       </file>
@@ -1011,6 +1032,9 @@
         <mark key="]" line="8" column="92" />
         <mark key="^" line="8" column="104" />
         <mark key="." line="8" column="92" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/play.php" timestamp="1560944880778">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_events_reports/odl_events_reports.batch.inc" timestamp="1528283008897">
         <mark key="[" line="19" column="44" />
@@ -1291,6 +1315,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/commerce/commerce-product--event--upcoming-event.html.twig" timestamp="1533216146453">
         <mark key="[" line="31" column="134" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/composer.json" timestamp="1560940954535">
+        <mark key="[" line="0" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/themes/classy/templates/form/input.html.twig" timestamp="1537775021460">
         <mark key="[" line="12" column="24" />
       </file>
@@ -1310,6 +1337,12 @@
         <mark key="[" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/core/core.services.yml" timestamp="1560933982440" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/tests/Kernel/Service/ServiceCollectorTest.php" timestamp="1560945150842">
+        <mark key="[" line="71" column="9" />
+        <mark key="]" line="71" column="9" />
+        <mark key="^" line="71" column="16" />
+        <mark key="." line="71" column="9" />
+      </file>
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_order_export/src/Exception/EmptyOrderException.php" timestamp="1541364401718">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1370,6 +1403,12 @@
         <mark key="]" line="168" column="15" />
         <mark key="^" line="168" column="15" />
         <mark key="." line="168" column="15" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/ServicesBlock.php" timestamp="1560943515480">
+        <mark key="[" line="37" column="64" />
+        <mark key="]" line="27" column="3" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="27" column="3" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/src/ProductVariation.php" timestamp="1523960562882">
         <mark key="[" line="6" column="28" />
@@ -1482,10 +1521,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ices</text>
+        <text>Plain text 1</text>
       </register>
       <register name="-" type="4">
-        <text>ices</text>
+        <text>Plain text 1</text>
       </register>
       <register name="/" type="4">
         <text>Kei</text>
