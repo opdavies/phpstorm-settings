@@ -553,6 +553,12 @@
         <mark key="^" line="3" column="2" />
         <mark key="." line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/tests/src/Traits/MockHttpClientTrait.php" timestamp="1560983472391">
+        <mark key="[" line="31" column="1" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/bracknell/docroot/sites/all/modules/custom/localgov/localgov_base_moderation/bracknell_base.test" timestamp="1539257513432">
         <mark key="[" line="5" column="19" />
       </file>
@@ -1031,8 +1037,8 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/src/Mailer/RoleChangeMailer.php" timestamp="1538843738235">
         <mark key="[" line="51" column="107" />
       </file>
-      <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/tests/Kernel/CreateEventsTest.php" timestamp="1560978892219">
-        <mark key="[" line="53" column="34" />
+      <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/tests/Kernel/CreateEventsTest.php" timestamp="1560983175501">
+        <mark key="[" line="9" column="35" />
         <mark key="]" line="104" column="0" />
         <mark key="^" line="104" column="0" />
         <mark key="." line="104" column="0" />
@@ -1112,10 +1118,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_promotion/odl_promotion.install" timestamp="1535643793115">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/tests/Traits/MockHttpClientTrait.php" timestamp="1560979055041">
-        <mark key="[" line="11" column="2" />
-        <mark key="]" line="11" column="2" />
-        <mark key="." line="11" column="2" />
+      <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/tests/Traits/MockHttpClientTrait.php" timestamp="1560983160335">
+        <mark key="[" line="11" column="1" />
+        <mark key="]" line="11" column="1" />
+        <mark key="." line="11" column="1" />
+        <mark key="^" line="11" column="1" />
       </file>
       <file name="$USER_HOME$/Code/atom/donuts/money-donut/docroot/sites/default/settings.php" timestamp="1534419195677">
         <mark key="[" line="86" column="33" />
@@ -1377,6 +1384,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/EventSubscriber/ArchiveEvent.php" timestamp="1536058005106">
         <mark key="[" line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/tests/src/Kernel/CreateEventsTest.php" timestamp="1560983683980">
+        <mark key="[" line="91" column="50" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/EventSubscriber/MarkEventAsArchived.php" timestamp="1537196908899">
         <mark key="[" line="54" column="0" />
       </file>
@@ -1515,10 +1525,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>protected</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>protected</text>
       </register>
       <register name="/" type="4">
         <text>term</text>
