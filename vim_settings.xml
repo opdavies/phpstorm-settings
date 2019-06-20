@@ -213,6 +213,9 @@
       <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_import/event_import.info.yml" timestamp="1560498573617">
         <mark key="[" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/config/sync/node.type.service.yml" timestamp="1561041440726">
+        <mark key="[" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/better_exposed_filters/js/bef_select_all_none.js" timestamp="1536575504933">
         <mark key="[" line="117" column="83" />
       </file>
@@ -674,6 +677,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_event_cancelled.yml" timestamp="1536914453487">
         <mark key="[" line="5" column="21" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/service/config/install/node.type.service.yml" timestamp="1561041438938">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="11" column="12" />
+        <mark key="^" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_promotion/odl_promotion.install" timestamp="1535643793115">
         <mark key="[" line="0" column="0" />
       </file>
@@ -757,6 +766,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/config/sync/geolocation.settings.yml" timestamp="1525787945221">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/ServicesDeliveredBlock.php" timestamp="1561040625695">
+        <mark key="[" line="85" column="17" />
+        <mark key="]" line="85" column="16" />
+        <mark key="^" line="85" column="16" />
+        <mark key="." line="85" column="16" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/tailwind.config.js" timestamp="1558429084543">
         <mark key="[" line="19" column="47" />
@@ -1054,8 +1069,8 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_support_ticket/tests/src/modules/odl_support_ticket_test/odl_support_ticket_test.info.yml" timestamp="1522318617363">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/ServicesBlock.php" timestamp="1560951709554">
-        <mark key="[" line="25" column="5" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/ServicesBlock.php" timestamp="1561040286027">
+        <mark key="[" line="14" column="19" />
         <mark key="]" line="34" column="3" />
         <mark key="^" line="34" column="3" />
         <mark key="." line="34" column="3" />
