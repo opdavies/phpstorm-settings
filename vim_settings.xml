@@ -1029,12 +1029,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/EventSubscriber/MarkEventAsArchived.php" timestamp="1537196908899">
         <mark key="[" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/config/sync/core.extension.yml" timestamp="1561033436488">
-        <mark key="'" line="48" column="2" />
-        <mark key="[" line="29" column="18" />
-        <mark key="]" line="23" column="18" />
-        <mark key="^" line="23" column="18" />
-        <mark key="." line="23" column="18" />
+      <file name="$USER_HOME$/Code/inviqa2019/config/sync/core.extension.yml" timestamp="1561038751476">
+        <mark key="'" line="47" column="2" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="30" column="14" />
+        <mark key="^" line="30" column="14" />
+        <mark key="." line="30" column="14" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_venue_entity/src/VenueAccessControlHandler.php" timestamp="1536595971658">
         <mark key="[" line="19" column="98" />
@@ -1177,11 +1177,11 @@
       <jump line="57" column="2" filename="$USER_HOME$/Code/inviqa2019/config/sync/core.extension.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZGVzdGluYXRpb246CiAgcGx1Z2luOiBlbnRpdHk6dXNlcgogIG1kNV9wYXNzd29yZHM6IHRydWUKCg==</text>
+      <register name="&quot;" type="4">
+        <text>search</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>search</text>
       </register>
       <register name="/" type="4">
         <text>serial</text>
