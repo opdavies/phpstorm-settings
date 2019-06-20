@@ -929,8 +929,8 @@
       <file name="$USER_HOME$/Code/dcb-2019-static/source/sponsors.html.twig" timestamp="1558396028334">
         <mark key="[" line="10" column="52" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/inviqa_migrate.info.yml" timestamp="1561026973010">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/inviqa_migrate.info.yml" timestamp="1561033409523">
+        <mark key="[" line="8" column="3" />
       </file>
       <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/sessions.csv" timestamp="1558731488444">
         <mark key="[" line="5" column="35" />
@@ -1029,9 +1029,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/EventSubscriber/MarkEventAsArchived.php" timestamp="1537196908899">
         <mark key="[" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/config/sync/core.extension.yml" timestamp="1560953602925">
-        <mark key="'" line="47" column="2" />
-        <mark key="[" line="9" column="11" />
+      <file name="$USER_HOME$/Code/inviqa2019/config/sync/core.extension.yml" timestamp="1561033436488">
+        <mark key="'" line="48" column="2" />
+        <mark key="[" line="29" column="18" />
+        <mark key="]" line="23" column="18" />
+        <mark key="^" line="23" column="18" />
+        <mark key="." line="23" column="18" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_venue_entity/src/VenueAccessControlHandler.php" timestamp="1536595971658">
         <mark key="[" line="19" column="98" />
