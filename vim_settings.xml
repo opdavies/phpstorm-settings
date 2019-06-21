@@ -72,6 +72,7 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.php" timestamp="1535971313824">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/multi_value_field_block/src/Plugin/Block/DefaultBlock.php" timestamp="1561067138354" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_closing_events/odl_closing_events.info.yml" timestamp="1535704073803">
         <mark key="[" line="0" column="0" />
       </file>
@@ -767,11 +768,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/config/sync/geolocation.settings.yml" timestamp="1525787945221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/ServicesDeliveredBlock.php" timestamp="1561040625695">
-        <mark key="[" line="85" column="17" />
-        <mark key="]" line="85" column="16" />
-        <mark key="^" line="85" column="16" />
-        <mark key="." line="85" column="16" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/ServicesDeliveredBlock.php" timestamp="1561048015299">
+        <mark key="[" line="81" column="59" />
+        <mark key="]" line="81" column="18" />
+        <mark key="^" line="81" column="18" />
+        <mark key="." line="81" column="18" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/tailwind.config.js" timestamp="1558429084543">
         <mark key="[" line="19" column="47" />
@@ -999,6 +1000,9 @@
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_order_export/src/Exception/EmptyOrderException.php" timestamp="1541364401718">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/multi_value_field_block/multi_value_field_block.info.yml" timestamp="1561066209768">
+        <mark key="[" line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/Utility/Token.php" timestamp="1536161992274">
         <mark key="[" line="184" column="21" />
       </file>
@@ -1193,10 +1197,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>search</text>
+        <text>markup'] = $nod</text>
       </register>
       <register name="-" type="4">
-        <text>search</text>
+        <text>markup'] = $nod</text>
       </register>
       <register name="/" type="4">
         <text>serial</text>
