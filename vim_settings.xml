@@ -15,7 +15,7 @@
         <mark key="^" line="55" column="2" />
         <mark key="." line="55" column="2" />
       </file>
-      <file name="/a.dummy" timestamp="1558731500927">
+      <file name="/a.dummy" timestamp="1561106078596">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.taxonomy_term.field_pay_as_you_go_member_price.yml" timestamp="1529505216449">
@@ -72,12 +72,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.php" timestamp="1535971313824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/multi_value_field_block/src/Plugin/Block/DefaultBlock.php" timestamp="1561104047139">
-        <mark key="[" line="68" column="12" />
-        <mark key="]" line="68" column="32" />
-        <mark key="^" line="68" column="32" />
-        <mark key="." line="68" column="32" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_closing_events/odl_closing_events.info.yml" timestamp="1535704073803">
         <mark key="[" line="0" column="0" />
       </file>
@@ -107,6 +101,9 @@
       </file>
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/tdd_blog/tdd_blog.info.yml" timestamp="1536753493471">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/delta_display_block/field_delta_display_block.info.yml" timestamp="1561106015053">
+        <mark key="[" line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/config/install/odl_leader_rewards.settings.yml" timestamp="1536832366660">
         <mark key="[" line="0" column="0" />
@@ -243,7 +240,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_leader_applications/odl_leader_applications.links.menu.yml" timestamp="1536587642429">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/startup_core/startup_core.info.yml" timestamp="1561026912714" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_leader_applications/odl_leader_applications.info.yml" timestamp="1537528749610">
         <mark key="[" line="12" column="27" />
       </file>
@@ -339,13 +335,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/private-message-thread/private-message-thread--inbox.html.twig" timestamp="1529414080529">
         <mark key="[" line="23" column="51" />
-      </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" timestamp="1560940081247">
-        <mark key="'" line="90" column="0" />
-        <mark key="[" line="144" column="2" />
-        <mark key="]" line="130" column="40" />
-        <mark key="^" line="130" column="40" />
-        <mark key="." line="130" column="40" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_event_leader.yml" timestamp="1524854906476">
         <mark key="[" line="6" column="21" />
@@ -719,6 +708,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_order_item.field_waitlisted.yml" timestamp="1523608523851">
         <mark key="[" line="5" column="20" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/delta_display_block/src/Plugin/Block/DefaultBlock.php" timestamp="1561106075474">
+        <mark key="[" line="11" column="10" />
+        <mark key="]" line="11" column="10" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="18" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/package.json" timestamp="1558470298624">
         <mark key="[" line="15" column="42" />
       </file>
@@ -778,6 +773,9 @@
         <mark key="]" line="81" column="18" />
         <mark key="^" line="81" column="18" />
         <mark key="." line="81" column="18" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/delta_display_block/delta_display_block.yml" timestamp="1561105403523">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/tailwind.config.js" timestamp="1558429084543">
         <mark key="[" line="19" column="47" />
@@ -992,13 +990,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/Service/LeaderRewards/LeaderRewardCalculator.php" timestamp="1535971453686">
         <mark key="[" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/tests/Kernel/Service/ServiceCollectorTest.php" timestamp="1560949605806">
-        <mark key="'" line="104" column="0" />
-        <mark key="[" line="110" column="5" />
-        <mark key="]" line="109" column="51" />
-        <mark key="^" line="109" column="51" />
-        <mark key="." line="109" column="51" />
-      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/commerce/commerce-order-total-summary.html.twig_" timestamp="1535624683953">
         <mark key="[" line="43" column="30" />
       </file>
@@ -1077,6 +1068,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_support_ticket/tests/src/modules/odl_support_ticket_test/odl_support_ticket_test.info.yml" timestamp="1522318617363">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/delta_display_block/src/Plugin/Block/FieldDeltaDisplayBlock.php" timestamp="1561106707079">
+        <mark key="[" line="43" column="25" />
+        <mark key="]" line="43" column="26" />
+        <mark key="^" line="43" column="26" />
+        <mark key="." line="43" column="26" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/ServicesBlock.php" timestamp="1561040286027">
         <mark key="[" line="14" column="19" />
@@ -1202,10 +1199,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>cwString</text>
+        <text>default_block</text>
       </register>
       <register name="-" type="4">
-        <text>cwString</text>
+        <text>default_block</text>
       </register>
       <register name="/" type="4">
         <text>serial</text>
