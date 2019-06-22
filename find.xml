@@ -27,5 +27,6 @@
     <mask>*.inc</mask>
     <mask>*.test</mask>
     <mask>*.php</mask>
+    <mask>*settings.php</mask>
   </component>
 </application>
