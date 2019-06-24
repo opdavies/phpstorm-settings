@@ -354,6 +354,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/scripts/completed-on-test.php" timestamp="1535705706352">
         <mark key="[" line="5" column="23" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/term_services.yml" timestamp="1561383836073">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/Service/RewardTypeSelector.php" timestamp="1536079427374">
         <mark key="[" line="52" column="31" />
       </file>
@@ -1534,10 +1540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>protected</text>
+        <text>users</text>
       </register>
       <register name="-" type="4">
-        <text>protected</text>
+        <text>users</text>
       </register>
       <register name="/" type="4">
         <text>term</text>
