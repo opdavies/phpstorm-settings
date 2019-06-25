@@ -300,6 +300,9 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="14" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/config/install/migrate_plus.migration_group.inviqa19.yml" timestamp="1561458799605">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_event_places_remaining.yml" timestamp="1523458276348">
         <mark key="[" line="5" column="21" />
       </file>
