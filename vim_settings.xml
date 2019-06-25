@@ -195,11 +195,12 @@
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicecover/modules/custom/ti_mail/ti_mail.module" timestamp="1541361586138">
         <mark key="[" line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_case_study.yml" timestamp="1561471422617">
-        <mark key="[" line="63" column="32" />
-        <mark key="]" line="63" column="31" />
-        <mark key="^" line="63" column="31" />
-        <mark key="." line="63" column="31" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_case_study.yml" timestamp="1561473416823">
+        <mark key="'" line="65" column="21" />
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="12" />
+        <mark key="^" line="15" column="0" />
+        <mark key="." line="14" column="12" />
       </file>
       <file name="$USER_HOME$/Code/os/php-helpers/.gitignore" timestamp="1558434768913">
         <mark key="[" line="2" column="8" />
@@ -1461,8 +1462,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/drupal87/core/lib/Drupal/Core/Entity/EntityInterface.php" />
-      <jump line="19" column="15" filename="$USER_HOME$/Code/drupal87/core/lib/Drupal/Core/Entity/ContentEntityBase.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/drupal87/core/lib/Drupal/Core/Entity/ContentEntityBase.php" />
       <jump line="98" column="3" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/src/Mailer/RoleChangeMailer.php" />
       <jump line="153" column="16" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
@@ -1561,16 +1560,18 @@
       <jump line="7" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_service.yml" />
       <jump line="0" column="12" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_service.yml" />
       <jump line="24" column="11" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_service.yml" />
+      <jump line="64" column="29" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_case_study.yml" />
+      <jump line="65" column="21" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_case_study.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>intro_text</text>
+        <text>text</text>
       </register>
       <register name="-" type="4">
-        <text>intro_text</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
-        <text>nid</text>
+        <text>teaser</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7JSBpbmNsdWRlICd0YWxrcy91cGNvbWluZycgd2l0aCB7CiAgICAgICAgICAgIHRhbGtzOiBnZXRUYWxrcyhwYWdlLnRhbGtzfG1lcmdlKGRhdGEudGFsa3MpKXx1cGNvbWluZywKICAgICAgICB9ICV9CgpuCg==</text>
@@ -1626,9 +1627,9 @@
       </register>
     </registers>
     <search>
-      <last-search>nid</last-search>
+      <last-search>teaser</last-search>
       <last-offset />
-      <last-pattern>nid</last-pattern>
+      <last-pattern>teaser</last-pattern>
       <last-replace>events</last-replace>
       <last-substitute>label</last-substitute>
       <last-dir>1</last-dir>
@@ -1636,7 +1637,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Add</entry>
         <entry>AddForm</entry>
         <entry>use</entry>
         <entry>UserCre</entry>
@@ -1656,6 +1656,7 @@
         <entry>Kei</entry>
         <entry>term</entry>
         <entry>nid</entry>
+        <entry>teaser</entry>
       </history-search>
       <history-cmd>
         <entry>314</entry>
