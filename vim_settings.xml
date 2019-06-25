@@ -195,11 +195,11 @@
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicecover/modules/custom/ti_mail/ti_mail.module" timestamp="1541361586138">
         <mark key="[" line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_case_study.yml" timestamp="1561466609429">
-        <mark key="[" line="58" column="34" />
-        <mark key="]" line="58" column="22" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_case_study.yml" timestamp="1561468116957">
+        <mark key="[" line="16" column="19" />
+        <mark key="]" line="59" column="22" />
         <mark key="^" line="7" column="8" />
-        <mark key="." line="58" column="22" />
+        <mark key="." line="59" column="22" />
       </file>
       <file name="$USER_HOME$/Code/os/php-helpers/.gitignore" timestamp="1558434768913">
         <mark key="[" line="2" column="8" />
