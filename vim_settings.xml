@@ -528,6 +528,11 @@
       <file name="/fragment.php" timestamp="1532960857937">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/ServicesDeliveredBlock.php" timestamp="1561474232178">
+        <mark key="[" line="40" column="44" />
+        <mark key="]" line="40" column="5" />
+        <mark key="." line="40" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/app/SculpinKernel.php" timestamp="1558563679952">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="27" />
