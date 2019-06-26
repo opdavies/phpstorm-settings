@@ -1,14 +1,11 @@
 <scheme name="_@user_Github Light (rainglow)" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2019-05-13T12:08:52</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2019.1.2.0.0</property>
-    <property name="modified">2019-05-15T01:00:46</property>
+    <property name="modified">2019-06-26T09:59:25</property>
     <property name="originalScheme">Github Light (rainglow)</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="Operator Mono" />
-  <option name="CONSOLE_LINE_SPACING" value="2.0" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="dd1144" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
