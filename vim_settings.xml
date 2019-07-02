@@ -129,6 +129,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/fields/field.html.twig" timestamp="1526298423140">
         <mark key="[" line="49" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/profiles/demo_umami/themes/umami/templates/components/banner-block/block--bundle--banner-block.html.twig" timestamp="1562082927607">
+        <mark key="[" line="36" column="35" />
+      </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/term_industries.yml" timestamp="1561391844344">
         <mark key="[" line="6" column="16" />
       </file>
@@ -137,6 +140,9 @@
       </file>
       <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/src/Service/EventLoader/EventLoaderInterface.php" timestamp="1560508253451">
         <mark key="[" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/themes/bartik/templates/block.html.twig" timestamp="1562083174918">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/better_exposed_filters/js/bef_select_all_none.js" timestamp="1536575504933">
         <mark key="[" line="117" column="83" />
@@ -1128,6 +1134,9 @@
       <file name="$USER_HOME$/Code/php-south-wales/.env" timestamp="1560841376695">
         <mark key="[" line="0" column="37" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/example.settings.local.php" timestamp="1562083401988">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/better_field_descriptions/src/Form/BetterFieldDescriptionsSettingsForm.php" timestamp="1526049784874">
         <mark key="[" line="80" column="64" />
       </file>
@@ -1389,6 +1398,9 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/drupaltest/tests/src/Unit/Service/ExampleUnitTest.php" timestamp="1536753049911">
         <mark key="[" line="7" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/themes/stable/templates/block/block.html.twig" timestamp="1562083644585">
+        <mark key="[" line="34" column="17" />
+      </file>
       <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/features/ti_commerce/src/EntityWrapper/OrderWrapper.php" timestamp="1560549064594">
         <mark key="[" line="117" column="24" />
         <mark key="]" line="117" column="3" />
@@ -1502,7 +1514,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/drupal87/core/lib/Drupal/Core/Entity/ContentEntityBase.php" />
       <jump line="98" column="3" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/src/Mailer/RoleChangeMailer.php" />
       <jump line="153" column="16" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_membership/odl_membership.module" />
@@ -1602,6 +1613,7 @@
       <jump line="24" column="11" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_service.yml" />
       <jump line="64" column="29" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_case_study.yml" />
       <jump line="65" column="21" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_case_study.yml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/core/themes/bartik/templates/block.html.twig" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
