@@ -571,6 +571,9 @@
       <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/speaker-session.html.twig" timestamp="1558547589055">
         <mark key="[" line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_people/inviqa_people.info.yml" timestamp="1562168262367">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/drush/odl.aliases.drushrc.php" timestamp="1533824287508">
         <mark key="[" line="2" column="23" />
       </file>
@@ -1044,6 +1047,11 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/config/install/odl_messages.yml" timestamp="1532688236598">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_person.yml" timestamp="1562168619593">
+        <mark key="[" line="0" column="16" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_concession_member_price.yml" timestamp="1529505143998">
         <mark key="[" line="5" column="21" />
@@ -1622,10 +1630,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>20</text>
+        <text>case_study</text>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>case_study</text>
       </register>
       <register name="/" type="4">
         <text>teaser</text>
