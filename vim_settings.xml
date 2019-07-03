@@ -222,6 +222,11 @@
         <mark key="^" line="68" column="42" />
         <mark key="." line="68" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_page.yml" timestamp="1562162261482">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/sites/default/settings.config.php" timestamp="1537347764319">
         <mark key="[" line="23" column="1" />
       </file>
@@ -1617,10 +1622,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>backend.install.steps</text>
+        <text>20</text>
       </register>
       <register name="-" type="4">
-        <text>backend.install.steps</text>
+        <text>20</text>
       </register>
       <register name="/" type="4">
         <text>teaser</text>
