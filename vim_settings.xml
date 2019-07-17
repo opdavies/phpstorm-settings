@@ -836,11 +836,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/src/Kernel/PurchasableDatesTest.php" timestamp="1536142994890">
         <mark key="[" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Service/Repository/RelatedCaseStudyRepository.php" timestamp="1563365081762">
-        <mark key="[" line="40" column="55" />
-        <mark key="]" line="40" column="26" />
-        <mark key="^" line="40" column="26" />
-        <mark key="." line="40" column="26" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Service/Repository/RelatedCaseStudyRepository.php" timestamp="1563366048300">
+        <mark key="[" line="50" column="60" />
+        <mark key="]" line="50" column="16" />
+        <mark key="^" line="50" column="16" />
+        <mark key="." line="50" column="16" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/Model/Speaker.php" timestamp="1558427799119">
         <mark key="[" line="19" column="5" />
@@ -916,6 +916,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_promotion/src/Service/EventPromotionFinder.php" timestamp="1540210226380">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/RelatedCaseStudiesDynamic.php" timestamp="1563366291477">
+        <mark key="[" line="127" column="0" />
+        <mark key="]" line="127" column="25" />
+        <mark key="^" line="127" column="25" />
+        <mark key="." line="127" column="25" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_leader_applications/odl_leader_applications.links.menu.yml" timestamp="1536587642429">
         <mark key="[" line="6" column="0" />
