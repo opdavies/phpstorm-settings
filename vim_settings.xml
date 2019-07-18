@@ -478,12 +478,6 @@
       <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/tests/Traits/MockGuzzleTrait.php" timestamp="1560978863913">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/workspace.yml" timestamp="1562665168025">
-        <mark key="[" line="43" column="72" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/composer.json" timestamp="1560973974941">
         <mark key="[" line="6" column="28" />
       </file>
@@ -840,8 +834,8 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/src/Kernel/PurchasableDatesTest.php" timestamp="1536142994890">
         <mark key="[" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Service/Repository/RelatedCaseStudyRepository.php" timestamp="1563368244537">
-        <mark key="[" line="57" column="37" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Service/Repository/RelatedCaseStudyRepository.php" timestamp="1563441986820">
+        <mark key="[" line="91" column="31" />
         <mark key="]" line="59" column="0" />
         <mark key="^" line="59" column="0" />
         <mark key="." line="59" column="0" />
@@ -921,11 +915,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_promotion/src/Service/EventPromotionFinder.php" timestamp="1540210226380">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/RelatedCaseStudiesDynamic.php" timestamp="1563379728708">
-        <mark key="[" line="156" column="43" />
-        <mark key="]" line="156" column="13" />
-        <mark key="^" line="156" column="13" />
-        <mark key="." line="156" column="13" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/RelatedCaseStudiesDynamic.php" timestamp="1563442435558">
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="144" column="0" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_leader_applications/odl_leader_applications.links.menu.yml" timestamp="1536587642429">
         <mark key="[" line="6" column="0" />
@@ -1308,11 +1302,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/config/sync/geolocation.settings.yml" timestamp="1525787945221">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/inviqa_case_study.module" timestamp="1563357918925">
-        <mark key="[" line="9" column="75" />
-        <mark key="]" line="9" column="75" />
-        <mark key="^" line="9" column="79" />
-        <mark key="." line="9" column="75" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/inviqa_case_study.module" timestamp="1563440105354">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/tailwind.config.js" timestamp="1558429084543">
         <mark key="[" line="19" column="47" />
@@ -1517,6 +1511,9 @@
         <mark key="]" line="1" column="21" />
         <mark key="^" line="1" column="21" />
         <mark key="." line="1" column="21" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/hooks/preprocess/block.inc" timestamp="1563442452233">
+        <mark key="[" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/src/Kernel/EventPlacesTest.php" timestamp="1531493165731">
         <mark key="[" line="83" column="14" />
