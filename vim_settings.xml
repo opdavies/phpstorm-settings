@@ -221,6 +221,12 @@
       <file name="$USER_HOME$/Code/os/php-helpers/.gitignore" timestamp="1558434768913">
         <mark key="[" line="2" column="8" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_blog/inviqa_blog.module" timestamp="1563813195430">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="46" />
+        <mark key="^" line="12" column="47" />
+        <mark key="." line="12" column="46" />
+      </file>
       <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_quote_angular/includes/your_quote.inc" timestamp="1560551372859">
         <mark key="[" line="68" column="47" />
         <mark key="]" line="68" column="42" />
@@ -1694,10 +1700,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>title</text>
+        <text>node</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>node</text>
       </register>
       <register name="/" type="4">
         <text>teaser</text>
