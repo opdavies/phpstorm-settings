@@ -213,6 +213,11 @@
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicecover/modules/custom/ti_mail/ti_mail.module" timestamp="1541361586138">
         <mark key="[" line="28" column="9" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_case_study.yml" timestamp="1563807874370">
+        <mark key="[" line="23" column="2" />
+        <mark key="]" line="23" column="2" />
+        <mark key="." line="23" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/os/php-helpers/.gitignore" timestamp="1558434768913">
         <mark key="[" line="2" column="8" />
       </file>
@@ -477,7 +482,7 @@
       <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/tests/Traits/MockGuzzleTrait.php" timestamp="1560978863913">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/workspace.yml" timestamp="1563804454723">
+      <file name="$USER_HOME$/Code/inviqa2019/workspace.yml" timestamp="1563807809018">
         <mark key="[" line="9" column="35" />
       </file>
       <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/composer.json" timestamp="1560973974941">
@@ -1684,10 +1689,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>service</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>service</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>teaser</text>
