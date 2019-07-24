@@ -584,6 +584,7 @@
       <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/speaker-session.html.twig" timestamp="1558547589055">
         <mark key="[" line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/block_content/src/BlockContentInterface.php" timestamp="1563982399833" />
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_people/inviqa_people.info.yml" timestamp="1562168262367">
         <mark key="[" line="0" column="0" />
       </file>
@@ -635,11 +636,11 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/themes/custom/inviqa/hooks/theme-suggestions/block.inc" timestamp="1563980556079">
-        <mark key="[" line="17" column="34" />
-        <mark key="]" line="17" column="34" />
-        <mark key="^" line="17" column="57" />
-        <mark key="." line="17" column="34" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/themes/custom/inviqa/hooks/theme-suggestions/block.inc" timestamp="1563984553247">
+        <mark key="[" line="25" column="104" />
+        <mark key="]" line="25" column="7" />
+        <mark key="^" line="25" column="7" />
+        <mark key="." line="25" column="7" />
       </file>
       <file name="$USER_HOME$/Code/bracknell/docroot/sites/all/modules/custom/localgov/localgov_base_moderation/bracknell_base.test" timestamp="1539257513432">
         <mark key="[" line="5" column="19" />
@@ -1021,9 +1022,15 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/private-message-thread/private-message-thread--inbox.html.twig" timestamp="1529414080529">
         <mark key="[" line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" timestamp="1563888876615">
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" timestamp="1563983746591">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="148" column="0" />
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="76" column="0" />
+        <mark key="." line="99" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/block_content/src/Entity/BlockContent.php" timestamp="1563982400758">
+        <mark key="[" line="78" column="78" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/app/config/sculpin_kernel.yml" timestamp="1558393995362">
         <mark key="[" line="4" column="28" />
@@ -1723,10 +1730,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>derivative_plugin_id</text>
+        <text>sdfd</text>
       </register>
       <register name="-" type="4">
-        <text>derivative_plugin_id</text>
+        <text>sdfd</text>
       </register>
       <register name="/" type="4">
         <text>teaser</text>
