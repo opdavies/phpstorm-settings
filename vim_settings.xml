@@ -578,6 +578,12 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="27" />
       </file>
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1564069529871">
+        <mark key="[" line="87" column="9" />
+        <mark key="]" line="87" column="9" />
+        <mark key="^" line="87" column="9" />
+        <mark key="." line="87" column="9" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
       </file>
@@ -719,7 +725,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/commerce/commerce-order-total-summary.html.twig_" timestamp="1535624683953">
         <mark key="[" line="43" column="30" />
       </file>
-      <file name="/PHP Console" timestamp="1564057572400">
+      <file name="/PHP Console" timestamp="1564069610608">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/blocks.yml" timestamp="1562773022420">
