@@ -263,6 +263,11 @@
       <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/src/Service/EventLoader/GuzzleEventLoader.php" timestamp="1560960352117">
         <mark key="[" line="38" column="41" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/config/sync/core.entity_form_display.block_content.video.default.yml" timestamp="1564153414169">
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/src/Service/Importer/ImporterInterface.php" timestamp="1558731558058">
         <mark key="[" line="2" column="35" />
       </file>
@@ -566,6 +571,12 @@
       </file>
       <file name="/fragment.php" timestamp="1563545536608">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/config/sync/core.entity_view_display.block_content.video.default.yml" timestamp="1564153234743">
+        <mark key="[" line="6" column="57" />
+        <mark key="]" line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/app/SculpinKernel.php" timestamp="1558563679952">
         <mark key="[" line="12" column="27" />
@@ -1731,10 +1742,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sdf</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="-" type="4">
-        <text>sdf</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
