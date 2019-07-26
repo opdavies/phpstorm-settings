@@ -578,11 +578,11 @@
         <mark key="^" line="12" column="26" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1564128492239">
-        <mark key="[" line="88" column="25" />
-        <mark key="]" line="88" column="23" />
-        <mark key="^" line="88" column="23" />
-        <mark key="." line="88" column="23" />
+      <file name="$USER_HOME$/Code/clients/ses-astra/docroot/modules/custom/astra_channel/src/Finder/SolrChannelFinder.php" timestamp="1564132209454">
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="^" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_early_bird_places.yml" timestamp="1529505346118">
         <mark key="[" line="5" column="21" />
@@ -725,7 +725,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/commerce/commerce-order-total-summary.html.twig_" timestamp="1535624683953">
         <mark key="[" line="43" column="30" />
       </file>
-      <file name="/PHP Console" timestamp="1564128981175">
+      <file name="/PHP Console" timestamp="1564131983552">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/blocks.yml" timestamp="1562773022420">
@@ -1736,10 +1736,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sdfd</text>
+        <text>toArray</text>
       </register>
       <register name="-" type="4">
-        <text>sdfd</text>
+        <text>toArray</text>
       </register>
       <register name="/" type="4">
         <text>teaser</text>
