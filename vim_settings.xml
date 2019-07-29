@@ -833,6 +833,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/Exception/NoLeaderRewardTypeException.php" timestamp="1535986079698">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/themes/custom/inviqa/hooks/process/node.inc" timestamp="1564402114428">
+        <mark key="[" line="44" column="43" />
+        <mark key="]" line="44" column="36" />
+        <mark key="^" line="44" column="36" />
+        <mark key="." line="44" column="36" />
+      </file>
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/themes/donut2/donut2.libraries.yml" timestamp="1534953548753">
         <mark key="[" line="5" column="6" />
       </file>
@@ -1112,6 +1118,12 @@
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Schedule/src/DependencyInjection/SculpinScheduleExtension.php" timestamp="1558563792611">
         <mark key="[" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/themes/custom/inviqa/templates/node/node--blog.html.twig" timestamp="1564400621871">
+        <mark key="[" line="94" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="92" column="0" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/menus/menu-local-tasks.html.twig" timestamp="1537967121114">
         <mark key="[" line="19" column="84" />
@@ -1745,10 +1757,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PA==</text>
+        <text>werer</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PA==</text>
+        <text>werer</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
