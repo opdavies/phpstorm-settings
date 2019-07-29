@@ -84,6 +84,12 @@
         <mark key="." line="15" column="10" />
         <mark key="^" line="15" column="10" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/contrib/codesnippet/codesnippet.module" timestamp="1564416411998">
+        <mark key="[" line="37" column="32" />
+        <mark key="]" line="37" column="32" />
+        <mark key="^" line="37" column="28" />
+        <mark key="." line="37" column="32" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Schedule/src/Model/Session.php" timestamp="1558564067524">
         <mark key="[" line="23" column="5" />
         <mark key="]" line="20" column="37" />
@@ -599,7 +605,6 @@
       <file name="$USER_HOME$/Code/dcb-2019-static/source/_includes/speaker-session.html.twig" timestamp="1558547589055">
         <mark key="[" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/block_content/src/BlockContentInterface.php" timestamp="1563982399833" />
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_people/inviqa_people.info.yml" timestamp="1562168262367">
         <mark key="[" line="0" column="0" />
       </file>
@@ -834,7 +839,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/themes/custom/inviqa/hooks/process/node.inc" timestamp="1564412626442">
-        <mark key="[" line="62" column="13" />
+        <mark key="[" line="60" column="13" />
         <mark key="]" line="40" column="25" />
         <mark key="^" line="59" column="68" />
         <mark key="." line="40" column="25" />
@@ -1376,6 +1381,7 @@
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/modules/custom/donut_redirect404/src/DonutRedirect404ServiceProvider.php" timestamp="1534754563032">
         <mark key="[" line="21" column="68" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/contrib/codesnippet/codesnippet.libraries.yml" timestamp="1564416139759" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/config/sync/geolocation.settings.yml" timestamp="1525787945221">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1761,10 +1767,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Entity</text>
+        <text>page</text>
       </register>
       <register name="-" type="4">
-        <text>Entity</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
