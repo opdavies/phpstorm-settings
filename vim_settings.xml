@@ -326,11 +326,11 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/HeaderBlock.php" timestamp="1564499813915">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/HeaderBlock.php" timestamp="1564504532890">
+        <mark key="[" line="70" column="5" />
+        <mark key="]" line="70" column="5" />
+        <mark key="^" line="70" column="5" />
+        <mark key="." line="70" column="5" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Sponsors/src/Resources/config/services.yml" timestamp="1558384735752">
         <mark key="[" line="2" column="39" />
@@ -689,8 +689,11 @@
       <file name="$USER_HOME$/Code/os/rebuilding-acquia/src/views/Environments.vue" timestamp="1560067951150">
         <mark key="[" line="101" column="74" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/templates/inviqa-case-study-header-block.html.twig" timestamp="1564497700154">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/templates/inviqa-case-study-header-block.html.twig" timestamp="1564504864185">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/scripts/get-attendee-emails.php" timestamp="1524499191982">
         <mark key="[" line="0" column="0" />
@@ -982,11 +985,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_promotion/src/Service/EventPromotionFinder.php" timestamp="1540210226380">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/hooks/theme.inc" timestamp="1564502265577">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/hooks/theme.inc" timestamp="1564504930990">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/RelatedCaseStudiesDynamic.php" timestamp="1563444375545">
         <mark key="[" line="116" column="26" />
@@ -1778,10 +1781,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>toArray</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>toArray</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>refresh</text>
