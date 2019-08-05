@@ -741,7 +741,12 @@
       <file name="$USER_HOME$/Code/inviqa2019/docroot/themes/custom/inviqa/inviqa.libraries.yml" timestamp="1561544006148">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/helpers.php" timestamp="1565006942834" />
+      <file name="$USER_HOME$/Code/inviqa2019/helpers.php" timestamp="1565011020366">
+        <mark key="[" line="26" column="18" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="0" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_profile/src/Plugin/views/access/MyProfilePage.php" timestamp="1539946979823">
         <mark key="[" line="70" column="53" />
       </file>
