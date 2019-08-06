@@ -871,12 +871,9 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_related_content/src/Repository/RelatedContentRepository.php" timestamp="1565023335337">
-        <mark key="'" line="143" column="0" />
-        <mark key="[" line="120" column="11" />
-        <mark key="]" line="120" column="11" />
-        <mark key="^" line="120" column="9" />
-        <mark key="." line="120" column="11" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_related_content/src/Repository/RelatedContentRepository.php" timestamp="1565116411460">
+        <mark key="'" line="107" column="0" />
+        <mark key="[" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/.docksal/commands/copy-stubs" timestamp="1528193518930">
         <mark key="[" line="0" column="19" />
@@ -963,12 +960,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/src/Kernel/PurchasableDatesTest.php" timestamp="1536142994890">
         <mark key="[" line="54" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Service/Repository/RelatedCaseStudyRepository.php" timestamp="1565109620788">
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Service/Repository/RelatedCaseStudyRepository.php" timestamp="1565116209044">
         <mark key="'" line="27" column="4" />
-        <mark key="[" line="69" column="55" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+        <mark key="[" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/Model/Speaker.php" timestamp="1558427799119">
         <mark key="[" line="19" column="5" />
