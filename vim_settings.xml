@@ -695,6 +695,12 @@
         <mark key="^" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_related_content/tests/src/Kernel/GetRelatedContentTest.php" timestamp="1565259708921">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="12" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="25" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/themes/custom/inviqa/hooks/theme-suggestions/block.inc" timestamp="1564678105726">
         <mark key="[" line="25" column="52" />
         <mark key="]" line="42" column="44" />
@@ -870,9 +876,9 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_related_content/src/Repository/RelatedContentRepository.php" timestamp="1565220411171">
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_related_content/src/Repository/RelatedContentRepository.php" timestamp="1565259324728">
         <mark key="'" line="107" column="0" />
-        <mark key="[" line="93" column="9" />
+        <mark key="[" line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/.docksal/commands/copy-stubs" timestamp="1528193518930">
         <mark key="[" line="0" column="19" />
