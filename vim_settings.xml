@@ -54,7 +54,6 @@
         <mark key="^" line="64" column="7" />
         <mark key="." line="64" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/.my127ws/application/overlay/docroot/sites/default/settings.local.php" timestamp="1565003821524" />
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/tdd_blog/tdd_blog.info.yml" timestamp="1536753493471">
         <mark key="[" line="0" column="0" />
       </file>
@@ -328,7 +327,6 @@
         <mark key="^" line="87" column="14" />
         <mark key="." line="87" column="14" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_blog/inviqa_blog.info.yml" timestamp="1564655306584" />
       <file name="$USER_HOME$/Code/bracknell/docroot/modules/node/node.module" timestamp="1539181730929">
         <mark key="[" line="2755" column="35" />
       </file>
@@ -367,6 +365,9 @@
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/config/install/migrate_plus.migration_group.inviqa19.yml" timestamp="1561458799605">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/.my127ws/docker/image/nginx/root/etc/nginx/conf.d/default.conf" timestamp="1565271288040">
+        <mark key="[" line="89" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_event_places_remaining.yml" timestamp="1523458276348">
         <mark key="[" line="5" column="21" />
@@ -422,7 +423,6 @@
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_order_export/src/ExportedOrder.php" timestamp="1541364985098">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/lib/Drupal/Core/EventSubscriber/EntityRouteProviderSubscriber.php" timestamp="1564736283908" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_export/odl_user_export.services.yml" timestamp="1538652616621">
         <mark key="[" line="7" column="46" />
       </file>
@@ -450,7 +450,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/scripts/completed-on-test.php" timestamp="1535705706352">
         <mark key="[" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/lib/Drupal/Component/Plugin/ContextAwarePluginBase.php" timestamp="1564499781868" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/Service/RewardTypeSelector.php" timestamp="1536079427374">
         <mark key="[" line="52" column="31" />
       </file>
@@ -616,7 +615,6 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/themes/custom/inviqa/tasks/scripts.js" timestamp="1564496029475" />
       <file name="$USER_HOME$/Code/dcb-2019-static/app/SculpinKernel.php" timestamp="1558563679952">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="27" />
@@ -809,7 +807,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/.docksal/addons/uli/uli" timestamp="1530180518456">
         <mark key="[" line="11" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/contrib/devel/src/Controller/EntityDebugController.php" timestamp="1564736266965" />
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/inviqa_case_study.services.yml" timestamp="1565253914864">
         <mark key="[" line="6" column="32" />
       </file>
@@ -907,7 +904,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/Exception/NoLeaderRewardTypeException.php" timestamp="1535986079698">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/themes/custom/inviqa/hooks/process/node.inc" timestamp="1564655558378" />
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/themes/donut2/donut2.libraries.yml" timestamp="1534953548753">
         <mark key="[" line="5" column="6" />
       </file>
@@ -950,7 +946,6 @@
         <mark key="^" line="15" column="19" />
         <mark key="." line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/workspaces/tests/src/Kernel/WorkspaceIntegrationTest.php" timestamp="1565219637267" />
       <file name="$USER_HOME$/Code/os/rebuilding-acquia/src/components/Application/PhpVersion.vue" timestamp="1560046070787">
         <mark key="[" line="23" column="2" />
         <mark key="]" line="15" column="12" />
@@ -1045,7 +1040,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_export/odl_user_export.info.yml" timestamp="1538565971678">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/features/install.feature" timestamp="1565088195155" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/Controller/WaitlistedReport.php" timestamp="1526290132261">
         <mark key="[" line="37" column="37" />
       </file>
@@ -1132,6 +1126,9 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/private-message-thread/private-message-thread--inbox.html.twig" timestamp="1529414080529">
         <mark key="[" line="23" column="51" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" timestamp="1565271386522">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/block_content/src/Entity/BlockContent.php" timestamp="1563982400758">
         <mark key="[" line="78" column="78" />
@@ -1331,7 +1328,7 @@
       <file name="$USER_HOME$/Code/php-south-wales/.env" timestamp="1560841376695">
         <mark key="[" line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/example.settings.local.php" timestamp="1562083401988">
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/example.settings.local.php" timestamp="1565271461488">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/better_field_descriptions/src/Form/BetterFieldDescriptionsSettingsForm.php" timestamp="1526049784874">
@@ -1342,6 +1339,12 @@
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/service/inviqa_service.features.yml" timestamp="1563551863008">
         <mark key="[" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/tools/workspace/docker/image/nginx/root/etc/nginx/conf.d/default.conf.twig" timestamp="1565271697618">
+        <mark key="[" line="101" column="34" />
+        <mark key="]" line="101" column="8" />
+        <mark key="^" line="101" column="23" />
+        <mark key="." line="101" column="8" />
       </file>
       <file name="$USER_HOME$/Code/clients/tinhat/docs/update-starting-order-id.md" timestamp="1561018340872">
         <mark key="[" line="0" column="0" />
@@ -1475,7 +1478,6 @@
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/docroot/modules/custom/donut_redirect404/src/DonutRedirect404ServiceProvider.php" timestamp="1534754563032">
         <mark key="[" line="21" column="68" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/contrib/codesnippet/codesnippet.libraries.yml" timestamp="1564416139759" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/config/sync/geolocation.settings.yml" timestamp="1525787945221">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1572,7 +1574,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_event_type.yml" timestamp="1529502728869">
         <mark key="[" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/themes/bartik/bartik.theme" timestamp="1564655212769" />
       <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/src/Service/EventLoader/MeetupEventLoader.php" timestamp="1560929814892">
         <mark key="[" line="13" column="52" />
       </file>
@@ -1693,7 +1694,6 @@
       <file name="$USER_HOME$/Code/atom/danu/.gitignore" timestamp="1534426700455">
         <mark key="[" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/core.services.yml" timestamp="1564562540673" />
       <file name="$USER_HOME$/Code/tinhat/repo/docroot/sites/devicelife/modules/custom/ti_order_export/src/Exception/EmptyOrderException.php" timestamp="1541364401718">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1712,7 +1712,6 @@
         <mark key="^" line="34" column="9" />
         <mark key="." line="34" column="9" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/taxonomy/src/Entity/Vocabulary.php" timestamp="1565218929802" />
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/SculpinSpeakersBundle.php" timestamp="1558391984734">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="1" column="21" />
@@ -1862,7 +1861,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/core/themes/bartik/templates/block.html.twig" />
       <jump line="26" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_case_study.yml" />
       <jump line="83" column="4" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_case_study.yml" />
-      <jump line="0" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" />
       <jump line="13" column="37" filename="$USER_HOME$/Code/inviqa2019/docroot/themes/custom/inviqa/hooks/theme-suggestions/block.inc" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/inviqa2019/workspace.yml" />
       <jump line="147" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" />
@@ -1878,6 +1876,7 @@
       <jump line="63" column="39" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_related_content/src/Repository/RelatedContentRepository.php" />
       <jump line="129" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_related_content/src/Repository/RelatedContentRepository.php" />
       <jump line="27" column="4" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Service/Repository/RelatedCaseStudyRepository.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
