@@ -31,5 +31,6 @@
     <mask>*.html.twig</mask>
     <mask>*</mask>
     <mask>*Block.php</mask>
+    <mask>*feature*</mask>
   </component>
 </application>
