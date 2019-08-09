@@ -57,6 +57,7 @@
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/tdd_blog/tdd_blog.info.yml" timestamp="1536753493471">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/term_service_pillar_en.yml" timestamp="1565359452693" />
       <file name="$USER_HOME$/Code/inviqa2019/docroot/core/lib/Drupal/Core/Block/BlockBase.php" timestamp="1564499783534">
         <mark key="[" line="56" column="18" />
       </file>
@@ -1395,6 +1396,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/lib/Drupal/Core/TypedData/Plugin/DataType/ItemList.php" timestamp="1531149770113">
         <mark key="[" line="140" column="10" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/term_service_pillars.yml" timestamp="1565359383616">
+        <mark key="[" line="12" column="12" />
+        <mark key="]" line="12" column="12" />
+        <mark key="^" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+      </file>
       <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/tests/Kernel/CreatingEventsTest.php" timestamp="1560896991573">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1900,10 +1907,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>required</text>
+        <text>Strategy</text>
       </register>
       <register name="-" type="4">
-        <text>required</text>
+        <text>Strategy</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
