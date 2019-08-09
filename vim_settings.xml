@@ -256,6 +256,11 @@
         <mark key="^" line="68" column="42" />
         <mark key="." line="68" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_page.yml" timestamp="1565365662539">
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="30" column="2" />
+        <mark key="." line="30" column="2" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/sites/default/settings.config.php" timestamp="1537347764319">
         <mark key="[" line="23" column="1" />
       </file>
@@ -1690,6 +1695,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/scripts/delete-extra-vouchers.php" timestamp="1533797826950">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_service.yml" timestamp="1565365666215" />
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/src/Kernel/OdlCommerceTestBase.php" timestamp="1539955165430">
         <mark key="[" line="45" column="15" />
       </file>
@@ -1907,10 +1913,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Strategy</text>
+        <text>title</text>
       </register>
       <register name="-" type="4">
-        <text>Strategy</text>
+        <text>title</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
