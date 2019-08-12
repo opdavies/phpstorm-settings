@@ -350,6 +350,11 @@
       <file name="$USER_HOME$/Code/inviqa2019/composer.json" timestamp="1565603519584">
         <mark key="[" line="114" column="22" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/config/sync/field.field.node.case_study.field_tile_image.yml" timestamp="1565618765736">
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+      </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/HeaderBlock.php" timestamp="1564562584168">
         <mark key="[" line="26" column="6" />
         <mark key="]" line="26" column="6" />
@@ -421,9 +426,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.field.commerce_order_item.odl_order_item_type.field_cancelled.yml" timestamp="1523610254420">
         <mark key="[" line="9" column="26" />
-      </file>
-      <file name="$USER_HOME$/Code/inviqa2019/.platform.app.yaml" timestamp="1565007984371">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/os/php-helpers/tests/EnvironmentTest.php" timestamp="1558434985053">
         <mark key="[" line="1" column="0" />
@@ -1146,9 +1148,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/private-message-thread/private-message-thread--inbox.html.twig" timestamp="1529414080529">
         <mark key="[" line="23" column="51" />
-      </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" timestamp="1565271386522">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/block_content/src/Entity/BlockContent.php" timestamp="1563982400758">
         <mark key="[" line="78" column="78" />
@@ -1914,10 +1913,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>title</text>
+        <text>false</text>
       </register>
       <register name="-" type="4">
-        <text>title</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
