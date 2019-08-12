@@ -347,6 +347,9 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="7" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/composer.json" timestamp="1565603519584">
+        <mark key="[" line="114" column="22" />
+      </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/HeaderBlock.php" timestamp="1564562584168">
         <mark key="[" line="26" column="6" />
         <mark key="]" line="26" column="6" />
