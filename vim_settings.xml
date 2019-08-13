@@ -176,6 +176,9 @@
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/contrib/field_delta_display_block/tests/modules/field_delta_display_block_test/field_delta_display_block_test.info.yml" timestamp="1561554878763">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Preprocess/Node/Blog.php" timestamp="1565702139851">
+        <mark key="[" line="34" column="72" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Schedule/tests/ScheduleTest.php" timestamp="1558563214149">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
@@ -273,6 +276,12 @@
       </file>
       <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_gtm_datalayer/ti_gtm_datalayer.module" timestamp="1560039199517">
         <mark key="[" line="12" column="45" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Preprocess/Block/TableOfContentsBlock.php" timestamp="1565701453507">
+        <mark key="[" line="6" column="58" />
+        <mark key="]" line="6" column="58" />
+        <mark key="^" line="6" column="58" />
+        <mark key="." line="6" column="58" />
       </file>
       <file name="$USER_HOME$/Code/php-south-wales/docs/testing.md" timestamp="1560973359428">
         <mark key="[" line="4" column="3" />
@@ -374,6 +383,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/private_message_queue/tests/src/Kernel/PrivateMessageQueueTest.php" timestamp="1528803009924">
         <mark key="[" line="59" column="20" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Preprocess/Node/BlogNode.php" timestamp="1565701954923">
+        <mark key="[" line="10" column="13" />
+        <mark key="]" line="2" column="40" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="2" column="40" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/source/_speakers/daniel-pickering.md" timestamp="1558393588847">
         <mark key="[" line="3" column="14" />
@@ -581,6 +596,9 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_admin/odl_base/odl_base.info.yml" timestamp="1538049430075">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Preprocess/Node/TableOfContents.php" timestamp="1565701502972">
+        <mark key="[" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/scripts/waitlist-report-test.php" timestamp="1526289846384">
         <mark key="[" line="0" column="0" />
@@ -810,6 +828,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/Service/LeaderRewards/LeaderRewardCalculator.php" timestamp="1535971453686">
         <mark key="[" line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Preprocess/TableOfContentsBlock.php" timestamp="1565701400640">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/commerce/commerce-order-total-summary.html.twig_" timestamp="1535624683953">
         <mark key="[" line="43" column="30" />
       </file>
@@ -831,11 +852,10 @@
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/inviqa_case_study.services.yml" timestamp="1565253914864">
         <mark key="[" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/hooks/preprocess/node.inc" timestamp="1565700172255">
-        <mark key="[" line="25" column="43" />
-        <mark key="]" line="25" column="3" />
-        <mark key="^" line="25" column="3" />
-        <mark key="." line="25" column="3" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/hooks/preprocess/node.inc" timestamp="1565701623054">
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/netlify.toml" timestamp="1558419872315">
         <mark key="[" line="1" column="13" />
@@ -899,10 +919,6 @@
         <mark key="]" line="22" column="24" />
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
-      </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_related_content/src/Repository/RelatedContentRepository.php" timestamp="1565340359343">
-        <mark key="'" line="108" column="0" />
-        <mark key="[" line="89" column="23" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/.docksal/commands/copy-stubs" timestamp="1528193518930">
         <mark key="[" line="0" column="19" />
@@ -987,10 +1003,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/src/Kernel/PurchasableDatesTest.php" timestamp="1536142994890">
         <mark key="[" line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Service/Repository/RelatedCaseStudyRepository.php" timestamp="1565116209044">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Speakers/src/Model/Speaker.php" timestamp="1558427799119">
         <mark key="[" line="19" column="5" />
@@ -1924,10 +1936,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_content</text>
+        <text>Block</text>
       </register>
       <register name="-" type="4">
-        <text>_content</text>
+        <text>Block</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
