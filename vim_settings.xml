@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.commerce_product.field_event_end_date.yml" timestamp="1535663248800">
         <mark key="[" line="6" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1558731500927">
+      <file name="/a.dummy" timestamp="1565704061255">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/tests/modules/odl_events_test/config/install/field.storage.taxonomy_term.field_pay_as_you_go_member_price.yml" timestamp="1529505216449">
@@ -636,6 +636,9 @@
       <file name="$USER_HOME$/Code/inviqa2019/tools/workspace/_twig/docker-compose.yml/application.yml.twig" timestamp="1561982864121">
         <mark key="[" line="37" column="19" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Preprocess/Node/BlogPost.php" timestamp="1565703722635">
+        <mark key="[" line="10" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_messages/modules/odl_private_message_archive/tests/src/Kernel/MessageThreads.php" timestamp="1528389707730">
         <mark key="[" line="8" column="14" />
       </file>
@@ -852,10 +855,11 @@
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/inviqa_case_study.services.yml" timestamp="1565253914864">
         <mark key="[" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/hooks/preprocess/node.inc" timestamp="1565701623054">
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/hooks/preprocess/node.inc" timestamp="1565704069653">
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/netlify.toml" timestamp="1558419872315">
         <mark key="[" line="1" column="13" />
@@ -1031,6 +1035,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_clone_event/odl_clone_event.links.task.yml" timestamp="1523019780503">
         <mark key="[" line="4" column="12" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Preprocess/Node/AddTableOfContentsToWhitepapers.php" timestamp="1565703926180">
+        <mark key="[" line="16" column="18" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_support_ticket/tests/modules/odl_support_ticket_test/config/install/node.type.support_ticket.yml" timestamp="1522318834702">
         <mark key="[" line="2" column="12" />
       </file>
@@ -1142,6 +1149,12 @@
       <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_gtm_datalayer/src/DataLayerInterface.php" timestamp="1560039746154">
         <mark key="[" line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Preprocess/Node/AddTableOfContentsToBlogPosts.php" timestamp="1565703499143">
+        <mark key="[" line="26" column="12" />
+        <mark key="]" line="21" column="34" />
+        <mark key="." line="21" column="34" />
+        <mark key="^" line="21" column="34" />
+      </file>
       <file name="$USER_HOME$/Code/atom/donuts/startup-donut/.gitignore" timestamp="1534420439793">
         <mark key="[" line="2" column="24" />
       </file>
@@ -1198,6 +1211,12 @@
         <mark key="]" line="363" column="1" />
         <mark key="^" line="363" column="1" />
         <mark key="." line="363" column="1" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Preprocess/Node/AddTableOfContentsBlock.php" timestamp="1565704498772">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="28" />
+        <mark key="^" line="10" column="28" />
+        <mark key="." line="10" column="28" />
       </file>
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/drupaltest/src/Service/Calculator.php" timestamp="1536753154786">
         <mark key="[" line="0" column="0" />
@@ -1936,10 +1955,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Block</text>
+        <text>__invoke</text>
       </register>
       <register name="-" type="4">
-        <text>Block</text>
+        <text>__invoke</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
