@@ -831,6 +831,12 @@
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/inviqa_case_study.services.yml" timestamp="1565253914864">
         <mark key="[" line="6" column="32" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/hooks/preprocess/node.inc" timestamp="1565693692671">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/netlify.toml" timestamp="1558419872315">
         <mark key="[" line="1" column="13" />
       </file>
@@ -1301,8 +1307,8 @@
       <file name="$USER_HOME$/Code/atom/donuts/marketing-donut/scripts/duplicate-field-values.php" timestamp="1534860372543">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/inviqa_blog.module" timestamp="1565274274156">
-        <mark key="[" line="24" column="0" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/inviqa_blog.module" timestamp="1565693530538">
+        <mark key="[" line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Schedule/services.yml" timestamp="1558563579842">
         <mark key="[" line="1" column="31" />
@@ -1918,10 +1924,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>HOOK</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>HOOK</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
