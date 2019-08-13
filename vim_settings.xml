@@ -352,8 +352,8 @@
         <mark key="^" line="7" column="10" />
         <mark key="." line="7" column="7" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/composer.json" timestamp="1565603519584">
-        <mark key="[" line="114" column="22" />
+      <file name="$USER_HOME$/Code/inviqa2019/composer.json" timestamp="1565700379843">
+        <mark key="[" line="115" column="128" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/config/sync/field.field.node.case_study.field_tile_image.yml" timestamp="1565618765736">
         <mark key="[" line="14" column="10" />
@@ -831,11 +831,11 @@
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/inviqa_case_study.services.yml" timestamp="1565253914864">
         <mark key="[" line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/hooks/preprocess/node.inc" timestamp="1565693692671">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="7" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/hooks/preprocess/node.inc" timestamp="1565700172255">
+        <mark key="[" line="25" column="43" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="3" />
       </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/netlify.toml" timestamp="1558419872315">
         <mark key="[" line="1" column="13" />
@@ -1924,10 +1924,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HOOK</text>
+        <text>_content</text>
       </register>
       <register name="-" type="4">
-        <text>HOOK</text>
+        <text>_content</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
