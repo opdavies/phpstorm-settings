@@ -63,6 +63,12 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/src/config/install/odl_leader_rewards.settings.yml" timestamp="1536832366660">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/contrib/layout_builder_extra_templates/layout_builder_extra_templates.module" timestamp="1565781292749">
+        <mark key="[" line="13" column="66" />
+        <mark key="]" line="13" column="51" />
+        <mark key="^" line="13" column="51" />
+        <mark key="." line="13" column="51" />
+      </file>
       <file name="$USER_HOME$/Code/os/drupal7/drupal/sites/all/modules/contrib/block_aria_landmark_roles/block_aria_landmark_roles.install" timestamp="1558912069005">
         <mark key="[" line="98" column="1" />
         <mark key="]" line="98" column="0" />
@@ -164,11 +170,6 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/better_exposed_filters/js/bef_select_all_none.js" timestamp="1536575504933">
         <mark key="[" line="117" column="83" />
-      </file>
-      <file name="$USER_HOME$/Code/inviqa2019/config/sync/field.field.node.blog.field_categories_blog.yml" timestamp="1565619476741">
-        <mark key="[" line="16" column="10" />
-        <mark key="]" line="16" column="10" />
-        <mark key="." line="16" column="10" />
       </file>
       <file name="$USER_HOME$/Code/atom/donuts/law-donut/.gitignore" timestamp="1534420713595">
         <mark key="[" line="3" column="0" />
@@ -359,11 +360,6 @@
       <file name="$USER_HOME$/Code/inviqa2019/composer.json" timestamp="1565700379843">
         <mark key="[" line="115" column="128" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/config/sync/field.field.node.case_study.field_tile_image.yml" timestamp="1565618765736">
-        <mark key="[" line="14" column="10" />
-        <mark key="]" line="14" column="10" />
-        <mark key="." line="14" column="10" />
-      </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Plugin/Block/HeaderBlock.php" timestamp="1564562584168">
         <mark key="[" line="26" column="6" />
         <mark key="]" line="26" column="6" />
@@ -462,6 +458,12 @@
       </file>
       <file name="$USER_HOME$/Code/drupaltestcamp/web/modules/custom/dtc_import/speakers.csv" timestamp="1558734248530">
         <mark key="[" line="4" column="16" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/contrib/layout_builder_extra_templates/src/Actions/AddExtraThemeSuggestions.php" timestamp="1565781325574">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="64" column="3" />
+        <mark key="^" line="64" column="3" />
+        <mark key="." line="64" column="3" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/commerce_stripe/config/schema/commerce_stripe.schema.yml" timestamp="1537275960879">
         <mark key="[" line="0" column="0" />
