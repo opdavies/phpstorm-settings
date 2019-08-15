@@ -1071,11 +1071,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/contrib/commerce/modules/order/src/Entity/Order.php" timestamp="1523462866759">
         <mark key="[" line="513" column="40" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Plugin/Block/RelatedReadingDynamic.php" timestamp="1565309514937">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Plugin/Block/RelatedReadingDynamic.php" timestamp="1565868154726">
+        <mark key="[" line="71" column="45" />
+        <mark key="]" line="131" column="37" />
+        <mark key="^" line="131" column="37" />
+        <mark key="." line="131" column="37" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/system/templates/html.html.twig" timestamp="1565310191602">
         <mark key="[" line="28" column="27" />
@@ -1690,6 +1690,12 @@
       </file>
       <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/mymobilecover/themes/custom/mymobilecover/partials/partial--navigation.tpl.php" timestamp="1560556653164">
         <mark key="[" line="1" column="101" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_related_content/src/Plugin/Block/RelatedContentBlock.php" timestamp="1565868142070">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="84" column="39" />
+        <mark key="." line="84" column="39" />
+        <mark key="^" line="84" column="39" />
       </file>
       <file name="$USER_HOME$/Code/tinhat/repo/play.php" timestamp="1540581552847">
         <mark key="[" line="1" column="0" />
