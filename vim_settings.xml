@@ -576,9 +576,9 @@
         <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/workspace.yml" timestamp="1565967775004">
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Code/php-south-wales/web/modules/custom/event_pull/composer.json" timestamp="1560973974941">
         <mark key="[" line="6" column="28" />
@@ -1648,11 +1648,8 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_clone_event/odl_clone_event.routing.yml" timestamp="1528297594585">
         <mark key="[" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/service/src/Plugin/Block/ServicePillarsBlock.php" timestamp="1565959745860">
-        <mark key="[" line="89" column="83" />
-        <mark key="]" line="91" column="26" />
-        <mark key="^" line="91" column="40" />
-        <mark key="." line="91" column="26" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/service/src/Plugin/Block/ServicePillarsBlock.php" timestamp="1565972228897">
+        <mark key="[" line="102" column="69" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_header_block/inviqa_header_block.info.yml" timestamp="1564564235641">
         <mark key="[" line="2" column="9" />
@@ -1984,10 +1981,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>each</text>
+        <text>medium</text>
       </register>
       <register name="-" type="4">
-        <text>each</text>
+        <text>medium</text>
       </register>
       <register name="/" type="4">
         <text>bundle</text>
