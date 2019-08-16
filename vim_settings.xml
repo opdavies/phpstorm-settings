@@ -363,6 +363,12 @@
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="6" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/inviqa_blog.install" timestamp="1565949429249">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="22" column="1" />
+        <mark key="^" line="22" column="1" />
+        <mark key="." line="22" column="1" />
+      </file>
       <file name="$USER_HOME$/Code/dcb-2019-static/src/Sponsors/src/Resources/config/services.yml" timestamp="1558384735752">
         <mark key="[" line="2" column="39" />
         <mark key="]" line="2" column="39" />
@@ -435,6 +441,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.field.commerce_order_item.odl_order_item_type.field_cancelled.yml" timestamp="1523610254420">
         <mark key="[" line="9" column="26" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/.platform.app.yaml" timestamp="1565949643478" />
       <file name="$USER_HOME$/Code/os/php-helpers/tests/EnvironmentTest.php" timestamp="1558434985053">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="31" column="57" />
@@ -546,7 +553,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/src/Plugin/Action/OdlCommerceEventCancelAction.php" timestamp="1526048608095">
         <mark key="[" line="126" column="6" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.txt" timestamp="1565709005658" />
       <file name="$USER_HOME$/Code/os/oliverdavies.uk/src/Talks/src/TwigExtension/EventsExtension.php" timestamp="1558339549715">
         <mark key="[" line="46" column="4" />
       </file>
@@ -1216,7 +1222,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/modules/odl_commerce_test/config/install/field.storage.commerce_product.field_event_leader.yml" timestamp="1524854906476">
         <mark key="[" line="6" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.txt" timestamp="1565874470250" />
       <file name="$USER_HOME$/Code/clients/tinhat/CHANGELOG.md" timestamp="1561464440683">
         <mark key="[" line="22" column="31" />
         <mark key="]" line="21" column="102" />
@@ -1295,7 +1300,6 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/contrib/ctools/modules/ctools_entity_mask/tests/modules/entity_mask_test/config/install/core.entity_form_display.block_content.basic.default.yml" timestamp="1565797408926" />
       <file name="$USER_HOME$/Code/clients/tinhat/docroot/sites/all/modules/custom/ti_quote_angular/js/tiQuote.js" timestamp="1560552640939">
         <mark key="[" line="874" column="53" />
         <mark key="]" line="104" column="8" />
@@ -1968,10 +1972,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>drupal/inviqa_blog</text>
+        <text>ighlight_title</text>
       </register>
       <register name="-" type="4">
-        <text>drupal/inviqa_blog</text>
+        <text>ighlight_title</text>
       </register>
       <register name="/" type="4">
         <text>255</text>
