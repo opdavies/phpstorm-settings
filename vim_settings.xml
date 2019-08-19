@@ -868,11 +868,11 @@
       <file name="/PHP Console" timestamp="1564140825167">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/blocks.yml" timestamp="1562773022420">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="6" />
-        <mark key="^" line="13" column="6" />
-        <mark key="." line="13" column="6" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/blocks.yml" timestamp="1566231496542">
+        <mark key="[" line="9" column="256" />
+        <mark key="]" line="16" column="6" />
+        <mark key="^" line="16" column="6" />
+        <mark key="." line="16" column="6" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/language/src/Form/NegotiationUrlForm.php" timestamp="1562835835845">
         <mark key="[" line="111" column="43" />
@@ -1657,8 +1657,11 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_clone_event/odl_clone_event.routing.yml" timestamp="1528297594585">
         <mark key="[" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/service/src/Plugin/Block/ServicePillarsBlock.php" timestamp="1565972228897">
-        <mark key="[" line="102" column="69" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/service/src/Plugin/Block/ServicePillarsBlock.php" timestamp="1566231357445">
+        <mark key="[" line="115" column="34" />
+        <mark key="]" line="115" column="33" />
+        <mark key="^" line="115" column="33" />
+        <mark key="." line="115" column="33" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_header_block/inviqa_header_block.info.yml" timestamp="1564564235641">
         <mark key="[" line="2" column="9" />
