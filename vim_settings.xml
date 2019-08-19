@@ -271,6 +271,12 @@
         <mark key="^" line="68" column="42" />
         <mark key="." line="68" column="42" />
       </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/inviqa_migrate/migrations/node_page.yml" timestamp="1566208172373">
+        <mark key="[" line="30" column="16" />
+        <mark key="]" line="30" column="6" />
+        <mark key="^" line="30" column="6" />
+        <mark key="." line="30" column="6" />
+      </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/sites/default/settings.config.php" timestamp="1537347764319">
         <mark key="[" line="23" column="1" />
       </file>
