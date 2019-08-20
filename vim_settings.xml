@@ -886,9 +886,6 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/.docksal/addons/uli/uli" timestamp="1530180518456">
         <mark key="[" line="11" column="64" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/inviqa_case_study.services.yml" timestamp="1565958588376">
-        <mark key="[" line="6" column="32" />
-      </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/hooks/preprocess/node.inc" timestamp="1565708869274">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="13" column="27" />
@@ -1880,6 +1877,12 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/src/EventSubscriber/MarkEventAsArchived.php" timestamp="1537196908899">
         <mark key="[" line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/config/sync/core.extension.yml" timestamp="1566296860251">
+        <mark key="[" line="55" column="23" />
+        <mark key="]" line="55" column="8" />
+        <mark key="^" line="55" column="8" />
+        <mark key="." line="55" column="8" />
       </file>
       <file name="$USER_HOME$/Code/drupal-testing-workshop/web/modules/custom/drupaltest/src/Service/UserDeleter.php" timestamp="1536752414626">
         <mark key="[" line="0" column="0" />
