@@ -1243,11 +1243,12 @@
         <mark key="^" line="21" column="110" />
         <mark key="." line="21" column="102" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.php" timestamp="1563888855002">
-        <mark key="[" line="776" column="2" />
-        <mark key="]" line="363" column="1" />
-        <mark key="^" line="363" column="1" />
-        <mark key="." line="363" column="1" />
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.php" timestamp="1566293955361">
+        <mark key="'" line="765" column="2" />
+        <mark key="[" line="777" column="1" />
+        <mark key="]" line="775" column="51" />
+        <mark key="^" line="775" column="51" />
+        <mark key="." line="775" column="51" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Preprocess/Node/AddTableOfContentsBlock.php" timestamp="1565708519925">
         <mark key="[" line="53" column="31" />
@@ -1498,7 +1499,7 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_events/modules/odl_leader_rewards/config/install/odl_leader_rewards.settings.yml" timestamp="1536832550555">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/services.local.yml" timestamp="1561982333449">
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/services.local.yml" timestamp="1566293927220">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/service/inviqa_service.services.yml" timestamp="1565959313542">
@@ -1557,6 +1558,9 @@
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/patches/private_message/disable-ajax-for-messages.patch" timestamp="1538470866295">
         <mark key="[" line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/.gitignore" timestamp="1566293990867">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/core/modules/views/views.views.inc" timestamp="1528729417633">
         <mark key="[" line="148" column="88" />
@@ -1897,8 +1901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/src/Traits/OdlEventProductTrait.php" />
-      <jump line="296" column="1" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_commerce/tests/src/Traits/OdlEventProductTrait.php" />
       <jump line="11" column="2" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_export/tests/src/Kernel/Service/UserEventDataTest.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/modules/custom/odl_user_export/tests/src/Kernel/Service/UserEventDataTest.php" />
       <jump line="32" column="0" filename="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/commerce/commerce-product--event.html.twig" />
@@ -1997,6 +1999,8 @@
       <jump line="27" column="4" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/case_study/src/Service/Repository/RelatedCaseStudyRepository.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" />
       <jump line="44" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/service/src/Repository/ServicePillarRepository.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.php" />
+      <jump line="765" column="2" filename="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
