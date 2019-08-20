@@ -1227,9 +1227,9 @@
       <file name="$USER_HOME$/Code/outdoorlads/repo/docroot/themes/custom/odl/templates/private-message-thread/private-message-thread--inbox.html.twig" timestamp="1529414080529">
         <mark key="[" line="23" column="51" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" timestamp="1566295970440">
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.local.php" timestamp="1566297498063">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="133" column="0" />
+        <mark key="[" line="40" column="70" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/core/modules/block_content/src/Entity/BlockContent.php" timestamp="1563982400758">
         <mark key="[" line="78" column="78" />
@@ -1252,12 +1252,12 @@
         <mark key="^" line="21" column="110" />
         <mark key="." line="21" column="102" />
       </file>
-      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.php" timestamp="1566293955361">
+      <file name="$USER_HOME$/Code/inviqa2019/docroot/sites/default/settings.php" timestamp="1566297547552">
         <mark key="'" line="765" column="2" />
         <mark key="[" line="777" column="1" />
-        <mark key="]" line="775" column="51" />
-        <mark key="^" line="775" column="51" />
-        <mark key="." line="775" column="51" />
+        <mark key="]" line="777" column="0" />
+        <mark key="^" line="777" column="0" />
+        <mark key="." line="777" column="0" />
       </file>
       <file name="$USER_HOME$/Code/inviqa2019/docroot/modules/custom/features/blog/src/Preprocess/Node/AddTableOfContentsBlock.php" timestamp="1565708519925">
         <mark key="[" line="53" column="31" />
@@ -2019,10 +2019,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>medium</text>
+        <text>settings</text>
       </register>
       <register name="-" type="4">
-        <text>medium</text>
+        <text>settings</text>
       </register>
       <register name="/" type="4">
         <text>bundle</text>
