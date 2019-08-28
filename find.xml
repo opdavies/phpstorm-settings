@@ -5,6 +5,7 @@
     <option name="skipResultsWithOneUsage" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Test.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,7 +22,6 @@
     <mask>*.scss</mask>
     <mask>*.routing*</mask>
     <mask>*Trait.php</mask>
-    <mask>*Test.php</mask>
     <mask>*.inc</mask>
     <mask>*.test</mask>
     <mask>*.php</mask>
@@ -30,5 +30,6 @@
     <mask>*</mask>
     <mask>*Block.php</mask>
     <mask>*feature*</mask>
+    <mask>*Test.php</mask>
   </component>
 </application>
