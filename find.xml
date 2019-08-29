@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="skipResultsWithOneUsage" value="true" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.inc" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -21,7 +24,6 @@
     <mask>*.scss</mask>
     <mask>*.routing*</mask>
     <mask>*Trait.php</mask>
-    <mask>*.inc</mask>
     <mask>*.test</mask>
     <mask>*.php</mask>
     <mask>*settings.php</mask>
@@ -32,5 +34,6 @@
     <mask>*Test.php</mask>
     <mask>*services.yml</mask>
     <mask>*.theme</mask>
+    <mask>*.inc</mask>
   </component>
 </application>
