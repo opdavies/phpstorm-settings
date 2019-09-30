@@ -2,7 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="isContrastMode" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="accentColor" value="0f111a" />
+    <option name="accentColor" value="424242" />
     <option name="selectedTheme" value="GITHUB" />
     <option name="userId" value="-3deb8de4:16b26d54dd0:-8000" />
     <option name="version" value="3.10.0" />
