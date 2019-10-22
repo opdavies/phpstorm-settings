@@ -7,6 +7,7 @@
     <option name="SKIP_RESULTS_WHEN_ONE_USAGE" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.inc" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -31,10 +32,10 @@
     <mask>*feature*</mask>
     <mask>*services.yml</mask>
     <mask>*.theme</mask>
-    <mask>*.inc</mask>
     <mask>*info*</mask>
     <mask>*Trait.php</mask>
     <mask>*js</mask>
     <mask>*Test.php</mask>
+    <mask>*.inc</mask>
   </component>
 </application>
