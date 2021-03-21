@@ -1,0 +1,5 @@
+<application>
+  <component name="PostfixTemplates">
+    <template id="com.jetbrains.php.postfixCompletion.PhpVarDumpPostfixTemplate#.var_dump" key=".dd" provider="builtin.php" builtin="com.jetbrains.php.postfixCompletion.PhpVarDumpPostfixTemplate#.var_dump" />
+  </component>
+</application>
